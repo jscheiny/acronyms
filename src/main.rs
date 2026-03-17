@@ -1,30 +1,61 @@
 use std::io::{self, BufRead};
 
-use crate::acronyms::Acronyms;
+use crate::acronyms::{Acronyms, NameCoordinate};
 
 mod acronyms;
 mod bitset;
 mod dawg;
 
 fn main() {
-    let mut names = vec![];
+    let mut names: Vec<Vec<String>> = vec![];
     let stdin = io::stdin();
     for line in stdin.lock().lines() {
-        let name = line.expect("Could not read line");
-        names.push(name);
+        let aliases = line
+            .expect("Could not read line")
+            .split(',')
+            .map(|elem| elem.to_owned())
+            .collect::<Vec<String>>();
+        names.push(aliases);
     }
 
-    Acronyms::find(&names, &|acronym, indices| {
-        print!("{}: ", acronym);
-        for (index, name_index) in indices.iter().enumerate() {
-            print!("{}", names[*name_index]);
-            if index < indices.len() - 2 {
-                print!(", ");
+    let mut longest: Option<(String, Vec<NameCoordinate>)> = None;
+    Acronyms::find(&names, |acronym, coordinates| {
+        if let Some(longest_instance) = longest.as_ref() {
+            if acronym.len() > longest_instance.0.len() {
+                longest = Some((acronym.clone(), coordinates.clone()))
             }
-            if index == indices.len() - 2 {
-                print!(", and ");
-            }
+        } else {
+            longest = Some((acronym.clone(), coordinates.clone()))
         }
-        println!();
+
+        print_acronym(&names, acronym, coordinates);
     });
+
+    if let Some(longest) = longest {
+        println!("Longest acronym ({}):", longest.0.len());
+        print_acronym(&names, &longest.0, &longest.1);
+    }
+}
+
+fn print_acronym(names: &[Vec<String>], acronym: &String, coordinates: &[NameCoordinate]) {
+    print!("{}: ", acronym);
+    for (index, coordinate) in coordinates.iter().enumerate() {
+        let NameCoordinate {
+            name_index,
+            alias_index,
+        } = *coordinate;
+        let primary_name = &names[name_index][0];
+        if alias_index == 0 {
+            print!("{}", primary_name);
+        } else {
+            print!("{} ({})", primary_name, names[name_index][alias_index])
+        }
+        if index < coordinates.len() - 2 {
+            print!(", ");
+        }
+        if index == coordinates.len() - 2 {
+            print!(", and ");
+        }
+    }
+    println!();
 }

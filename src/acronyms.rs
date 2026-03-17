@@ -4,21 +4,27 @@ use crate::dawg::{ALPHABET, Dawg};
 
 pub struct Acronyms {
     dawg: Dawg,
-    name_map: HashMap<char, Vec<usize>>,
+    name_map: HashMap<char, Vec<NameCoordinate>>,
+}
+
+#[derive(Clone, Copy, Debug)]
+pub struct NameCoordinate {
+    pub name_index: usize,
+    pub alias_index: usize,
 }
 
 impl Acronyms {
-    pub fn find(names: &[String], on_find: &impl Fn(&String, &Vec<usize>)) {
+    pub fn find(names: &[Vec<String>], mut on_find: impl FnMut(&String, &Vec<NameCoordinate>)) {
         Self::new(names).find_acronyms(
             0,
             &mut String::new(),
             &mut HashSet::new(),
             &mut vec![],
-            on_find,
+            &mut on_find,
         );
     }
 
-    fn new(names: &[String]) -> Self {
+    fn new(names: &[Vec<String>]) -> Self {
         let dawg = Dawg::read().unwrap();
         Self {
             dawg,
@@ -31,8 +37,8 @@ impl Acronyms {
         node_index: usize,
         word: &mut String,
         used_names_set: &mut HashSet<usize>,
-        used_names_vec: &mut Vec<usize>,
-        on_find: &impl Fn(&String, &Vec<usize>),
+        used_names_vec: &mut Vec<NameCoordinate>,
+        on_find: &mut impl FnMut(&String, &Vec<NameCoordinate>),
     ) {
         let node = self.dawg.node(node_index);
         if node.is_end_of_word {
@@ -40,40 +46,45 @@ impl Acronyms {
         }
         node.children.for_each(|letter_index| {
             let letter = ALPHABET[letter_index];
-            let name_indices = self.name_map.get(&letter);
+            let Some(name_coordinates) = self.name_map.get(&letter) else {
+                return;
+            };
 
-            if let Some(name_indices) = name_indices {
-                for name_index in name_indices {
-                    if !used_names_set.contains(name_index) {
-                        let name_index = *name_index;
-                        used_names_set.insert(name_index);
-                        used_names_vec.push(name_index);
-                        word.push(letter);
+            for coordinate in name_coordinates {
+                let name_index = coordinate.name_index;
+                if !used_names_set.contains(&name_index) {
+                    used_names_set.insert(name_index);
+                    used_names_vec.push(*coordinate);
+                    word.push(letter);
 
-                        self.find_acronyms(
-                            node.child(letter_index),
-                            word,
-                            used_names_set,
-                            used_names_vec,
-                            on_find,
-                        );
+                    self.find_acronyms(
+                        node.child(letter_index),
+                        word,
+                        used_names_set,
+                        used_names_vec,
+                        on_find,
+                    );
 
-                        used_names_set.remove(&name_index);
-                        used_names_vec.pop();
-                        word.pop();
-                        break;
-                    }
+                    used_names_set.remove(&name_index);
+                    used_names_vec.pop();
+                    word.pop();
+                    break;
                 }
             }
         });
     }
 }
 
-fn make_first_letter_lookup(names: &[String]) -> HashMap<char, Vec<usize>> {
-    let mut table: HashMap<char, Vec<usize>> = HashMap::new();
-    for (index, name) in names.iter().enumerate() {
-        let first_letter = name.chars().next().unwrap();
-        table.entry(first_letter).or_default().push(index);
+fn make_first_letter_lookup(names: &[Vec<String>]) -> HashMap<char, Vec<NameCoordinate>> {
+    let mut table: HashMap<char, Vec<NameCoordinate>> = HashMap::new();
+    for (name_index, names) in names.iter().enumerate() {
+        for (alias_index, alias) in names.iter().enumerate() {
+            let first_letter = alias.chars().next().unwrap().to_ascii_uppercase();
+            table.entry(first_letter).or_default().push(NameCoordinate {
+                name_index,
+                alias_index,
+            });
+        }
     }
 
     table

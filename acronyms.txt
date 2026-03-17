@@ -47,6 +47,8 @@ BETS: BdoubleO, Etho, Tango Tek, and Scar
 BEWIG: BdoubleO, Etho, Welsknight, ImpulseSV, and GeminiTay
 BEWIGS: BdoubleO, Etho, Welsknight, ImpulseSV, GeminiTay, and Scar
 BEWITCH: BdoubleO, Etho, Welsknight, ImpulseSV, Tango Tek, Cubfan135, and Hypno
+BHISTIE: BdoubleO, Hypno, ImpulseSV, Scar, Tango Tek, Jevin (iJevin), and Etho
+BHISTIES: BdoubleO, Hypno, ImpulseSV, Scar, Tango Tek, Jevin (iJevin), Etho, and Skizzleman
 BI: BdoubleO, and ImpulseSV
 BICE: BdoubleO, ImpulseSV, Cubfan135, and Etho
 BICEP: BdoubleO, ImpulseSV, Cubfan135, Etho, and PearlescentMoon
@@ -61,29 +63,45 @@ BIDERS: BdoubleO, ImpulseSV, Docm77, Etho, Rendog, and Scar
 BIDES: BdoubleO, ImpulseSV, Docm77, Etho, and Scar
 BIDET: BdoubleO, ImpulseSV, Docm77, Etho, and Tango Tek
 BIDETS: BdoubleO, ImpulseSV, Docm77, Etho, Tango Tek, and Scar
+BIDI: BdoubleO, ImpulseSV, Docm77, and Jevin (iJevin)
+BIDIS: BdoubleO, ImpulseSV, Docm77, Jevin (iJevin), and Scar
 BIDS: BdoubleO, ImpulseSV, Docm77, and Scar
 BIER: BdoubleO, ImpulseSV, Etho, and Rendog
 BIERS: BdoubleO, ImpulseSV, Etho, Rendog, and Scar
+BIFID: BdoubleO, ImpulseSV, False, Jevin (iJevin), and Docm77
 BIG: BdoubleO, ImpulseSV, and GeminiTay
 BIGGER: BdoubleO, ImpulseSV, GeminiTay, Grian, Etho, and Rendog
 BIGGEST: BdoubleO, ImpulseSV, GeminiTay, Grian, Etho, Scar, and Tango Tek
+BIGGIE: BdoubleO, ImpulseSV, GeminiTay, Grian, Jevin (iJevin), and Etho
+BIGGIES: BdoubleO, ImpulseSV, GeminiTay, Grian, Jevin (iJevin), Etho, and Scar
+BIGGISH: BdoubleO, ImpulseSV, GeminiTay, Grian, Jevin (iJevin), Scar, and Hypno
 BIGHT: BdoubleO, ImpulseSV, GeminiTay, Hypno, and Tango Tek
 BIGHTED: BdoubleO, ImpulseSV, GeminiTay, Hypno, Tango Tek, Etho, and Docm77
 BIGHTS: BdoubleO, ImpulseSV, GeminiTay, Hypno, Tango Tek, and Scar
 BIGS: BdoubleO, ImpulseSV, GeminiTay, and Scar
+BIGSTICK: BdoubleO, ImpulseSV, GeminiTay, Scar, Tango Tek, Jevin (iJevin), Cubfan135, and Keralis
+BIGTIME: BdoubleO, ImpulseSV, GeminiTay, Tango Tek, Jevin (iJevin), MumboJumbo, and Etho
+BIGWIG: BdoubleO, ImpulseSV, GeminiTay, Welsknight, Jevin (iJevin), and Grian
+BIGWIGS: BdoubleO, ImpulseSV, GeminiTay, Welsknight, Jevin (iJevin), Grian, and Scar
 BIKE: BdoubleO, ImpulseSV, Keralis, and Etho
 BIKED: BdoubleO, ImpulseSV, Keralis, Etho, and Docm77
 BIKER: BdoubleO, ImpulseSV, Keralis, Etho, and Rendog
 BIKERS: BdoubleO, ImpulseSV, Keralis, Etho, Rendog, and Scar
 BIKES: BdoubleO, ImpulseSV, Keralis, Etho, and Scar
+BIKIE: BdoubleO, ImpulseSV, Keralis, Jevin (iJevin), and Etho
+BIKIES: BdoubleO, ImpulseSV, Keralis, Jevin (iJevin), Etho, and Scar
 BIPED: BdoubleO, ImpulseSV, PearlescentMoon, Etho, and Docm77
 BIPEDS: BdoubleO, ImpulseSV, PearlescentMoon, Etho, Docm77, and Scar
 BIRCH: BdoubleO, ImpulseSV, Rendog, Cubfan135, and Hypno
 BIRCHED: BdoubleO, ImpulseSV, Rendog, Cubfan135, Hypno, Etho, and Docm77
 BIRCHES: BdoubleO, ImpulseSV, Rendog, Cubfan135, Hypno, Etho, and Scar
 BIRD: BdoubleO, ImpulseSV, Rendog, and Docm77
+BIRDIE: BdoubleO, ImpulseSV, Rendog, Docm77, Jevin (iJevin), and Etho
+BIRDIES: BdoubleO, ImpulseSV, Rendog, Docm77, Jevin (iJevin), Etho, and Scar
 BIRDS: BdoubleO, ImpulseSV, Rendog, Docm77, and Scar
 BIRK: BdoubleO, ImpulseSV, Rendog, and Keralis
+BIRKIE: BdoubleO, ImpulseSV, Rendog, Keralis, Jevin (iJevin), and Etho
+BIRKIES: BdoubleO, ImpulseSV, Rendog, Keralis, Jevin (iJevin), Etho, and Scar
 BIRKS: BdoubleO, ImpulseSV, Rendog, Keralis, and Scar
 BIRSE: BdoubleO, ImpulseSV, Rendog, Scar, and Etho
 BIRSES: BdoubleO, ImpulseSV, Rendog, Scar, Etho, and Skizzleman
@@ -93,6 +111,7 @@ BIRTHS: BdoubleO, ImpulseSV, Rendog, Tango Tek, Hypno, and Scar
 BIS: BdoubleO, ImpulseSV, and Scar
 BISE: BdoubleO, ImpulseSV, Scar, and Etho
 BISECT: BdoubleO, ImpulseSV, Scar, Etho, Cubfan135, and Tango Tek
+BISECTRIX: BdoubleO, ImpulseSV, Scar, Etho, Cubfan135, Tango Tek, Rendog, Jevin (iJevin), and XBCrafted
 BISECTS: BdoubleO, ImpulseSV, Scar, Etho, Cubfan135, Tango Tek, and Skizzleman
 BISES: BdoubleO, ImpulseSV, Scar, Etho, and Skizzleman
 BISK: BdoubleO, ImpulseSV, Scar, and Keralis
@@ -106,11 +125,13 @@ BIT: BdoubleO, ImpulseSV, and Tango Tek
 BITCH: BdoubleO, ImpulseSV, Tango Tek, Cubfan135, and Hypno
 BITCHED: BdoubleO, ImpulseSV, Tango Tek, Cubfan135, Hypno, Etho, and Docm77
 BITCHES: BdoubleO, ImpulseSV, Tango Tek, Cubfan135, Hypno, Etho, and Scar
+BITCHIER: BdoubleO, ImpulseSV, Tango Tek, Cubfan135, Hypno, Jevin (iJevin), Etho, and Rendog
 BITE: BdoubleO, ImpulseSV, Tango Tek, and Etho
 BITER: BdoubleO, ImpulseSV, Tango Tek, Etho, and Rendog
 BITERS: BdoubleO, ImpulseSV, Tango Tek, Etho, Rendog, and Scar
 BITES: BdoubleO, ImpulseSV, Tango Tek, Etho, and Scar
 BITS: BdoubleO, ImpulseSV, Tango Tek, and Scar
+BITSIER: BdoubleO, ImpulseSV, Tango Tek, Scar, Jevin (iJevin), Etho, and Rendog
 BIZ: BdoubleO, ImpulseSV, and ZedaphPlays
 BIZE: BdoubleO, ImpulseSV, ZedaphPlays, and Etho
 BIZES: BdoubleO, ImpulseSV, ZedaphPlays, Etho, and Scar
@@ -123,6 +144,7 @@ BREWSKI: BdoubleO, Rendog, Etho, Welsknight, Scar, Keralis, and ImpulseSV
 BREWSKIS: BdoubleO, Rendog, Etho, Welsknight, Scar, Keralis, ImpulseSV, and Skizzleman
 BRICK: BdoubleO, Rendog, ImpulseSV, Cubfan135, and Keralis
 BRICKED: BdoubleO, Rendog, ImpulseSV, Cubfan135, Keralis, Etho, and Docm77
+BRICKIEST: BdoubleO, Rendog, ImpulseSV, Cubfan135, Keralis, Jevin (iJevin), Etho, Scar, and Tango Tek
 BRICKS: BdoubleO, Rendog, ImpulseSV, Cubfan135, Keralis, and Scar
 BRIDE: BdoubleO, Rendog, ImpulseSV, Docm77, and Etho
 BRIDES: BdoubleO, Rendog, ImpulseSV, Docm77, Etho, and Scar
@@ -209,14 +231,19 @@ CHIRMED: Cubfan135, Hypno, ImpulseSV, Rendog, MumboJumbo, Etho, and Docm77
 CHIRMS: Cubfan135, Hypno, ImpulseSV, Rendog, MumboJumbo, and Scar
 CHIRP: Cubfan135, Hypno, ImpulseSV, Rendog, and PearlescentMoon
 CHIRPED: Cubfan135, Hypno, ImpulseSV, Rendog, PearlescentMoon, Etho, and Docm77
+CHIRPIEST: Cubfan135, Hypno, ImpulseSV, Rendog, PearlescentMoon, Jevin (iJevin), Etho, Scar, and Tango Tek
 CHIRPS: Cubfan135, Hypno, ImpulseSV, Rendog, PearlescentMoon, and Scar
 CHIS: Cubfan135, Hypno, ImpulseSV, and Scar
 CHIT: Cubfan135, Hypno, ImpulseSV, and Tango Tek
 CHITS: Cubfan135, Hypno, ImpulseSV, Tango Tek, and Scar
 CHIVE: Cubfan135, Hypno, ImpulseSV, Vintage Beef, and Etho
 CHIVES: Cubfan135, Hypno, ImpulseSV, Vintage Beef, Etho, and Scar
+CHIVIED: Cubfan135, Hypno, ImpulseSV, Vintage Beef, Jevin (iJevin), Etho, and Docm77
+CHIVIES: Cubfan135, Hypno, ImpulseSV, Vintage Beef, Jevin (iJevin), Etho, and Scar
 CHRISM: Cubfan135, Hypno, Rendog, ImpulseSV, Scar, and MumboJumbo
 CHRISMS: Cubfan135, Hypno, Rendog, ImpulseSV, Scar, MumboJumbo, and Skizzleman
+CHRISTIE: Cubfan135, Hypno, Rendog, ImpulseSV, Scar, Tango Tek, Jevin (iJevin), and Etho
+CHRISTIES: Cubfan135, Hypno, Rendog, ImpulseSV, Scar, Tango Tek, Jevin (iJevin), Etho, and Skizzleman
 CIDER: Cubfan135, ImpulseSV, Docm77, Etho, and Rendog
 CIDERS: Cubfan135, ImpulseSV, Docm77, Etho, Rendog, and Scar
 CIG: Cubfan135, ImpulseSV, and GeminiTay
@@ -227,6 +254,7 @@ CIPHERS: Cubfan135, ImpulseSV, PearlescentMoon, Hypno, Etho, Rendog, and Scar
 CIRE: Cubfan135, ImpulseSV, Rendog, and Etho
 CIRES: Cubfan135, ImpulseSV, Rendog, Etho, and Scar
 CIS: Cubfan135, ImpulseSV, and Scar
+CISSIES: Cubfan135, ImpulseSV, Scar, Skizzleman, Jevin (iJevin), Etho, and Smallishbeans
 CIST: Cubfan135, ImpulseSV, Scar, and Tango Tek
 CISTED: Cubfan135, ImpulseSV, Scar, Tango Tek, Etho, and Docm77
 CISTS: Cubfan135, ImpulseSV, Scar, Tango Tek, and Skizzleman
@@ -237,8 +265,14 @@ CITERS: Cubfan135, ImpulseSV, Tango Tek, Etho, Rendog, and Scar
 CITES: Cubfan135, ImpulseSV, Tango Tek, Etho, and Scar
 CITHER: Cubfan135, ImpulseSV, Tango Tek, Hypno, Etho, and Rendog
 CITHERS: Cubfan135, ImpulseSV, Tango Tek, Hypno, Etho, Rendog, and Scar
+CITIED: Cubfan135, ImpulseSV, Tango Tek, Jevin (iJevin), Etho, and Docm77
+CITIES: Cubfan135, ImpulseSV, Tango Tek, Jevin (iJevin), Etho, and Scar
 CIVET: Cubfan135, ImpulseSV, Vintage Beef, Etho, and Tango Tek
 CIVETS: Cubfan135, ImpulseSV, Vintage Beef, Etho, Tango Tek, and Scar
+CIVIE: Cubfan135, ImpulseSV, Vintage Beef, Jevin (iJevin), and Etho
+CIVIES: Cubfan135, ImpulseSV, Vintage Beef, Jevin (iJevin), Etho, and Scar
+CIVISM: Cubfan135, ImpulseSV, Vintage Beef, Jevin (iJevin), Scar, and MumboJumbo
+CIVISMS: Cubfan135, ImpulseSV, Vintage Beef, Jevin (iJevin), Scar, MumboJumbo, and Skizzleman
 CRED: Cubfan135, Rendog, Etho, and Docm77
 CREDIT: Cubfan135, Rendog, Etho, Docm77, ImpulseSV, and Tango Tek
 CREDITS: Cubfan135, Rendog, Etho, Docm77, ImpulseSV, Tango Tek, and Scar
@@ -257,14 +291,17 @@ CRIME: Cubfan135, Rendog, ImpulseSV, MumboJumbo, and Etho
 CRIMES: Cubfan135, Rendog, ImpulseSV, MumboJumbo, Etho, and Scar
 CRIMP: Cubfan135, Rendog, ImpulseSV, MumboJumbo, and PearlescentMoon
 CRIMPED: Cubfan135, Rendog, ImpulseSV, MumboJumbo, PearlescentMoon, Etho, and Docm77
+CRIMPIEST: Cubfan135, Rendog, ImpulseSV, MumboJumbo, PearlescentMoon, Jevin (iJevin), Etho, Scar, and Tango Tek
 CRIMPS: Cubfan135, Rendog, ImpulseSV, MumboJumbo, PearlescentMoon, and Scar
 CRIPE: Cubfan135, Rendog, ImpulseSV, PearlescentMoon, and Etho
 CRIPES: Cubfan135, Rendog, ImpulseSV, PearlescentMoon, Etho, and Scar
 CRIS: Cubfan135, Rendog, ImpulseSV, and Scar
 CRISES: Cubfan135, Rendog, ImpulseSV, Scar, Etho, and Skizzleman
+CRISIS: Cubfan135, Rendog, ImpulseSV, Scar, Jevin (iJevin), and Skizzleman
 CRISP: Cubfan135, Rendog, ImpulseSV, Scar, and PearlescentMoon
 CRISPED: Cubfan135, Rendog, ImpulseSV, Scar, PearlescentMoon, Etho, and Docm77
 CRISPEST: Cubfan135, Rendog, ImpulseSV, Scar, PearlescentMoon, Etho, Skizzleman, and Tango Tek
+CRISPIEST: Cubfan135, Rendog, ImpulseSV, Scar, PearlescentMoon, Jevin (iJevin), Etho, Skizzleman, and Tango Tek
 CRISPS: Cubfan135, Rendog, ImpulseSV, Scar, PearlescentMoon, and Skizzleman
 CRIT: Cubfan135, Rendog, ImpulseSV, and Tango Tek
 CRITS: Cubfan135, Rendog, ImpulseSV, Tango Tek, and Scar
@@ -284,12 +321,17 @@ DECK: Docm77, Etho, Cubfan135, and Keralis
 DECKS: Docm77, Etho, Cubfan135, Keralis, and Scar
 DEF: Docm77, Etho, and False
 DEFI: Docm77, Etho, False, and ImpulseSV
+DEFICIT: Docm77, Etho, False, ImpulseSV, Cubfan135, Jevin (iJevin), and Tango Tek
+DEFICITS: Docm77, Etho, False, ImpulseSV, Cubfan135, Jevin (iJevin), Tango Tek, and Scar
 DEFIS: Docm77, Etho, False, ImpulseSV, and Scar
 DEFT: Docm77, Etho, False, and Tango Tek
+DEIFIC: Docm77, Etho, ImpulseSV, False, Jevin (iJevin), and Cubfan135
 DEISM: Docm77, Etho, ImpulseSV, Scar, and MumboJumbo
 DEISMS: Docm77, Etho, ImpulseSV, Scar, MumboJumbo, and Skizzleman
 DEIST: Docm77, Etho, ImpulseSV, Scar, and Tango Tek
+DEISTIC: Docm77, Etho, ImpulseSV, Scar, Tango Tek, Jevin (iJevin), and Cubfan135
 DEISTS: Docm77, Etho, ImpulseSV, Scar, Tango Tek, and Skizzleman
+DEIXIS: Docm77, Etho, ImpulseSV, XBCrafted, Jevin (iJevin), and Scar
 DEMIC: Docm77, Etho, MumboJumbo, ImpulseSV, and Cubfan135
 DEMIT: Docm77, Etho, MumboJumbo, ImpulseSV, and Tango Tek
 DEMITS: Docm77, Etho, MumboJumbo, ImpulseSV, Tango Tek, and Scar
@@ -319,23 +361,35 @@ DICE: Docm77, ImpulseSV, Cubfan135, and Etho
 DICER: Docm77, ImpulseSV, Cubfan135, Etho, and Rendog
 DICERS: Docm77, ImpulseSV, Cubfan135, Etho, Rendog, and Scar
 DICES: Docm77, ImpulseSV, Cubfan135, Etho, and Scar
+DICIER: Docm77, ImpulseSV, Cubfan135, Jevin (iJevin), Etho, and Rendog
+DICIEST: Docm77, ImpulseSV, Cubfan135, Jevin (iJevin), Etho, Scar, and Tango Tek
 DICK: Docm77, ImpulseSV, Cubfan135, and Keralis
 DICKER: Docm77, ImpulseSV, Cubfan135, Keralis, Etho, and Rendog
 DICKERS: Docm77, ImpulseSV, Cubfan135, Keralis, Etho, Rendog, and Scar
+DICKIE: Docm77, ImpulseSV, Cubfan135, Keralis, Jevin (iJevin), and Etho
+DICKIER: Docm77, ImpulseSV, Cubfan135, Keralis, Jevin (iJevin), Etho, and Rendog
+DICKIES: Docm77, ImpulseSV, Cubfan135, Keralis, Jevin (iJevin), Etho, and Scar
+DICKIEST: Docm77, ImpulseSV, Cubfan135, Keralis, Jevin (iJevin), Etho, Scar, and Tango Tek
 DICKS: Docm77, ImpulseSV, Cubfan135, Keralis, and Scar
+DICTIER: Docm77, ImpulseSV, Cubfan135, Tango Tek, Jevin (iJevin), Etho, and Rendog
 DIE: Docm77, ImpulseSV, and Etho
 DIES: Docm77, ImpulseSV, Etho, and Scar
+DIESIS: Docm77, ImpulseSV, Etho, Scar, Jevin (iJevin), and Skizzleman
 DIET: Docm77, ImpulseSV, Etho, and Tango Tek
 DIETS: Docm77, ImpulseSV, Etho, Tango Tek, and Scar
 DIF: Docm77, ImpulseSV, and False
 DIFS: Docm77, ImpulseSV, False, and Scar
 DIG: Docm77, ImpulseSV, and GeminiTay
 DIGEST: Docm77, ImpulseSV, GeminiTay, Etho, Scar, and Tango Tek
+DIGESTIF: Docm77, ImpulseSV, GeminiTay, Etho, Scar, Tango Tek, Jevin (iJevin), and False
+DIGESTIFS: Docm77, ImpulseSV, GeminiTay, Etho, Scar, Tango Tek, Jevin (iJevin), False, and Skizzleman
 DIGESTS: Docm77, ImpulseSV, GeminiTay, Etho, Scar, Tango Tek, and Skizzleman
 DIGGER: Docm77, ImpulseSV, GeminiTay, Grian, Etho, and Rendog
 DIGGERS: Docm77, ImpulseSV, GeminiTay, Grian, Etho, Rendog, and Scar
 DIGHT: Docm77, ImpulseSV, GeminiTay, Hypno, and Tango Tek
 DIGHTS: Docm77, ImpulseSV, GeminiTay, Hypno, Tango Tek, and Scar
+DIGIT: Docm77, ImpulseSV, GeminiTay, Jevin (iJevin), and Tango Tek
+DIGITS: Docm77, ImpulseSV, GeminiTay, Jevin (iJevin), Tango Tek, and Scar
 DIGRESS: Docm77, ImpulseSV, GeminiTay, Rendog, Etho, Scar, and Skizzleman
 DIGS: Docm77, ImpulseSV, GeminiTay, and Scar
 DIKE: Docm77, ImpulseSV, Keralis, and Etho
@@ -345,11 +399,19 @@ DIKES: Docm77, ImpulseSV, Keralis, Etho, and Scar
 DIM: Docm77, ImpulseSV, and MumboJumbo
 DIME: Docm77, ImpulseSV, MumboJumbo, and Etho
 DIMER: Docm77, ImpulseSV, MumboJumbo, Etho, and Rendog
+DIMERIC: Docm77, ImpulseSV, MumboJumbo, Etho, Rendog, Jevin (iJevin), and Cubfan135
 DIMERS: Docm77, ImpulseSV, MumboJumbo, Etho, Rendog, and Scar
 DIMES: Docm77, ImpulseSV, MumboJumbo, Etho, and Scar
+DIMETRIC: Docm77, ImpulseSV, MumboJumbo, Etho, Tango Tek, Rendog, Jevin (iJevin), and Cubfan135
 DIMS: Docm77, ImpulseSV, MumboJumbo, and Scar
+DIMWIT: Docm77, ImpulseSV, MumboJumbo, Welsknight, Jevin (iJevin), and Tango Tek
+DIMWITS: Docm77, ImpulseSV, MumboJumbo, Welsknight, Jevin (iJevin), Tango Tek, and Scar
 DIP: Docm77, ImpulseSV, and PearlescentMoon
 DIPS: Docm77, ImpulseSV, PearlescentMoon, and Scar
+DIPSHIT: Docm77, ImpulseSV, PearlescentMoon, Scar, Hypno, Jevin (iJevin), and Tango Tek
+DIPSHITS: Docm77, ImpulseSV, PearlescentMoon, Scar, Hypno, Jevin (iJevin), Tango Tek, and Skizzleman
+DIPSTICK: Docm77, ImpulseSV, PearlescentMoon, Scar, Tango Tek, Jevin (iJevin), Cubfan135, and Keralis
+DIPSTICKS: Docm77, ImpulseSV, PearlescentMoon, Scar, Tango Tek, Jevin (iJevin), Cubfan135, Keralis, and Skizzleman
 DIPT: Docm77, ImpulseSV, PearlescentMoon, and Tango Tek
 DIRE: Docm77, ImpulseSV, Rendog, and Etho
 DIRECT: Docm77, ImpulseSV, Rendog, Etho, Cubfan135, and Tango Tek
@@ -360,26 +422,37 @@ DIRGES: Docm77, ImpulseSV, Rendog, GeminiTay, Etho, and Scar
 DIRK: Docm77, ImpulseSV, Rendog, and Keralis
 DIRKS: Docm77, ImpulseSV, Rendog, Keralis, and Scar
 DIRT: Docm77, ImpulseSV, Rendog, and Tango Tek
+DIRTIES: Docm77, ImpulseSV, Rendog, Tango Tek, Jevin (iJevin), Etho, and Scar
 DIRTS: Docm77, ImpulseSV, Rendog, Tango Tek, and Scar
 DIS: Docm77, ImpulseSV, and Scar
 DISC: Docm77, ImpulseSV, Scar, and Cubfan135
 DISCEPT: Docm77, ImpulseSV, Scar, Cubfan135, Etho, PearlescentMoon, and Tango Tek
 DISCEPTS: Docm77, ImpulseSV, Scar, Cubfan135, Etho, PearlescentMoon, Tango Tek, and Skizzleman
+DISCI: Docm77, ImpulseSV, Scar, Cubfan135, and Jevin (iJevin)
 DISCS: Docm77, ImpulseSV, Scar, Cubfan135, and Skizzleman
 DISH: Docm77, ImpulseSV, Scar, and Hypno
+DISHERIT: Docm77, ImpulseSV, Scar, Hypno, Etho, Rendog, Jevin (iJevin), and Tango Tek
+DISHERITS: Docm77, ImpulseSV, Scar, Hypno, Etho, Rendog, Jevin (iJevin), Tango Tek, and Skizzleman
 DISHES: Docm77, ImpulseSV, Scar, Hypno, Etho, and Skizzleman
+DISHIER: Docm77, ImpulseSV, Scar, Hypno, Jevin (iJevin), Etho, and Rendog
+DISHIEST: Docm77, ImpulseSV, Scar, Hypno, Jevin (iJevin), Etho, Skizzleman, and Tango Tek
 DISJECT: Docm77, ImpulseSV, Scar, Jevin, Etho, Cubfan135, and Tango Tek
 DISJECTS: Docm77, ImpulseSV, Scar, Jevin, Etho, Cubfan135, Tango Tek, and Skizzleman
 DISK: Docm77, ImpulseSV, Scar, and Keralis
 DISKS: Docm77, ImpulseSV, Scar, Keralis, and Skizzleman
 DISME: Docm77, ImpulseSV, Scar, MumboJumbo, and Etho
 DISMES: Docm77, ImpulseSV, Scar, MumboJumbo, Etho, and Skizzleman
+DISMISS: Docm77, ImpulseSV, Scar, MumboJumbo, Jevin (iJevin), Skizzleman, and Smallishbeans
+DISPRIZE: Docm77, ImpulseSV, Scar, PearlescentMoon, Rendog, Jevin (iJevin), ZedaphPlays, and Etho
+DISPRIZES: Docm77, ImpulseSV, Scar, PearlescentMoon, Rendog, Jevin (iJevin), ZedaphPlays, Etho, and Skizzleman
 DISS: Docm77, ImpulseSV, Scar, and Skizzleman
 DISSECT: Docm77, ImpulseSV, Scar, Skizzleman, Etho, Cubfan135, and Tango Tek
 DISSECTS: Docm77, ImpulseSV, Scar, Skizzleman, Etho, Cubfan135, Tango Tek, and Smallishbeans
 DISSERT: Docm77, ImpulseSV, Scar, Skizzleman, Etho, Rendog, and Tango Tek
 DISSERTS: Docm77, ImpulseSV, Scar, Skizzleman, Etho, Rendog, Tango Tek, and Smallishbeans
 DISSES: Docm77, ImpulseSV, Scar, Skizzleman, Etho, and Smallishbeans
+DISTICH: Docm77, ImpulseSV, Scar, Tango Tek, Jevin (iJevin), Cubfan135, and Hypno
+DISTICHS: Docm77, ImpulseSV, Scar, Tango Tek, Jevin (iJevin), Cubfan135, Hypno, and Skizzleman
 DISTRESS: Docm77, ImpulseSV, Scar, Tango Tek, Rendog, Etho, Skizzleman, and Smallishbeans
 DIT: Docm77, ImpulseSV, and Tango Tek
 DITCH: Docm77, ImpulseSV, Tango Tek, Cubfan135, and Hypno
@@ -388,11 +461,15 @@ DITCHERS: Docm77, ImpulseSV, Tango Tek, Cubfan135, Hypno, Etho, Rendog, and Scar
 DITCHES: Docm77, ImpulseSV, Tango Tek, Cubfan135, Hypno, Etho, and Scar
 DITE: Docm77, ImpulseSV, Tango Tek, and Etho
 DITES: Docm77, ImpulseSV, Tango Tek, Etho, and Scar
+DITHEISM: Docm77, ImpulseSV, Tango Tek, Hypno, Etho, Jevin (iJevin), Scar, and MumboJumbo
+DITHEISMS: Docm77, ImpulseSV, Tango Tek, Hypno, Etho, Jevin (iJevin), Scar, MumboJumbo, and Skizzleman
 DITHER: Docm77, ImpulseSV, Tango Tek, Hypno, Etho, and Rendog
 DITHERS: Docm77, ImpulseSV, Tango Tek, Hypno, Etho, Rendog, and Scar
 DITS: Docm77, ImpulseSV, Tango Tek, and Scar
+DITSIER: Docm77, ImpulseSV, Tango Tek, Scar, Jevin (iJevin), Etho, and Rendog
 DITZ: Docm77, ImpulseSV, Tango Tek, and ZedaphPlays
 DITZES: Docm77, ImpulseSV, Tango Tek, ZedaphPlays, Etho, and Scar
+DITZIER: Docm77, ImpulseSV, Tango Tek, ZedaphPlays, Jevin (iJevin), Etho, and Rendog
 DIVE: Docm77, ImpulseSV, Vintage Beef, and Etho
 DIVER: Docm77, ImpulseSV, Vintage Beef, Etho, and Rendog
 DIVERS: Docm77, ImpulseSV, Vintage Beef, Etho, Rendog, and Scar
@@ -401,6 +478,11 @@ DIVERTS: Docm77, ImpulseSV, Vintage Beef, Etho, Rendog, Tango Tek, and Scar
 DIVES: Docm77, ImpulseSV, Vintage Beef, Etho, and Scar
 DIVEST: Docm77, ImpulseSV, Vintage Beef, Etho, Scar, and Tango Tek
 DIVESTS: Docm77, ImpulseSV, Vintage Beef, Etho, Scar, Tango Tek, and Skizzleman
+DIXIT: Docm77, ImpulseSV, XBCrafted, Jevin (iJevin), and Tango Tek
+DIXITS: Docm77, ImpulseSV, XBCrafted, Jevin (iJevin), Tango Tek, and Scar
+DIZZIER: Docm77, ImpulseSV, ZedaphPlays, ZombieCleo, Jevin (iJevin), Etho, and Rendog
+DIZZIES: Docm77, ImpulseSV, ZedaphPlays, ZombieCleo, Jevin (iJevin), Etho, and Scar
+DIZZIEST: Docm77, ImpulseSV, ZedaphPlays, ZombieCleo, Jevin (iJevin), Etho, Scar, and Tango Tek
 DRECK: Docm77, Rendog, Etho, Cubfan135, and Keralis
 DRECKS: Docm77, Rendog, Etho, Cubfan135, Keralis, and Scar
 DREG: Docm77, Rendog, Etho, and GeminiTay
@@ -432,6 +514,7 @@ EDHS: Etho, Docm77, Hypno, and Scar
 EDICT: Etho, Docm77, ImpulseSV, Cubfan135, and Tango Tek
 EDICTS: Etho, Docm77, ImpulseSV, Cubfan135, Tango Tek, and Scar
 EDIT: Etho, Docm77, ImpulseSV, and Tango Tek
+EDITRIX: Etho, Docm77, ImpulseSV, Tango Tek, Rendog, Jevin (iJevin), and XBCrafted
 EDITS: Etho, Docm77, ImpulseSV, Tango Tek, and Scar
 EDS: Etho, Docm77, and Scar
 EF: Etho, and False
@@ -444,18 +527,24 @@ EGIS: Etho, GeminiTay, ImpulseSV, and Scar
 EH: Etho, and Hypno
 EIGHT: Etho, ImpulseSV, GeminiTay, Hypno, and Tango Tek
 EIGHTS: Etho, ImpulseSV, GeminiTay, Hypno, Tango Tek, and Scar
+EKISTIC: Etho, Keralis, ImpulseSV, Scar, Tango Tek, Jevin (iJevin), and Cubfan135
+EKISTICS: Etho, Keralis, ImpulseSV, Scar, Tango Tek, Jevin (iJevin), Cubfan135, and Skizzleman
 EM: Etho, and MumboJumbo
 EMIC: Etho, MumboJumbo, ImpulseSV, and Cubfan135
 EMIR: Etho, MumboJumbo, ImpulseSV, and Rendog
 EMIRS: Etho, MumboJumbo, ImpulseSV, Rendog, and Scar
 EMIT: Etho, MumboJumbo, ImpulseSV, and Tango Tek
 EMITS: Etho, MumboJumbo, ImpulseSV, Tango Tek, and Scar
+EMPIRIC: Etho, MumboJumbo, PearlescentMoon, ImpulseSV, Rendog, Jevin (iJevin), and Cubfan135
+EMPIRICS: Etho, MumboJumbo, PearlescentMoon, ImpulseSV, Rendog, Jevin (iJevin), Cubfan135, and Scar
 EMS: Etho, MumboJumbo, and Scar
 EPIC: Etho, PearlescentMoon, ImpulseSV, and Cubfan135
 EPICS: Etho, PearlescentMoon, ImpulseSV, Cubfan135, and Scar
 ER: Etho, and Rendog
 ERG: Etho, Rendog, and GeminiTay
 ERGS: Etho, Rendog, GeminiTay, and Scar
+ERISTIC: Etho, Rendog, ImpulseSV, Scar, Tango Tek, Jevin (iJevin), and Cubfan135
+ERISTICS: Etho, Rendog, ImpulseSV, Scar, Tango Tek, Jevin (iJevin), Cubfan135, and Skizzleman
 ERS: Etho, Rendog, and Scar
 ERST: Etho, Rendog, Scar, and Tango Tek
 ES: Etho, and Scar
@@ -472,6 +561,8 @@ ETIC: Etho, Tango Tek, ImpulseSV, and Cubfan135
 EVICT: Etho, Vintage Beef, ImpulseSV, Cubfan135, and Tango Tek
 EVICTS: Etho, Vintage Beef, ImpulseSV, Cubfan135, Tango Tek, and Scar
 EX: Etho, and XBCrafted
+EXHIBIT: Etho, XBCrafted, Hypno, ImpulseSV, BdoubleO, Jevin (iJevin), and Tango Tek
+EXHIBITS: Etho, XBCrafted, Hypno, ImpulseSV, BdoubleO, Jevin (iJevin), Tango Tek, and Scar
 EXIST: Etho, XBCrafted, ImpulseSV, Scar, and Tango Tek
 EXISTS: Etho, XBCrafted, ImpulseSV, Scar, Tango Tek, and Skizzleman
 EXIT: Etho, XBCrafted, ImpulseSV, and Tango Tek
@@ -498,8 +589,12 @@ FESTS: False, Etho, Scar, Tango Tek, and Skizzleman
 FET: False, Etho, and Tango Tek
 FETCH: False, Etho, Tango Tek, Cubfan135, and Hypno
 FETICH: False, Etho, Tango Tek, ImpulseSV, Cubfan135, and Hypno
+FETICHISM: False, Etho, Tango Tek, ImpulseSV, Cubfan135, Hypno, Jevin (iJevin), Scar, and MumboJumbo
+FETICHISMS: False, Etho, Tango Tek, ImpulseSV, Cubfan135, Hypno, Jevin (iJevin), Scar, MumboJumbo, and Skizzleman
 FETID: False, Etho, Tango Tek, ImpulseSV, and Docm77
 FETISH: False, Etho, Tango Tek, ImpulseSV, Scar, and Hypno
+FETISHISM: False, Etho, Tango Tek, ImpulseSV, Scar, Hypno, Jevin (iJevin), Skizzleman, and MumboJumbo
+FETISHISMS: False, Etho, Tango Tek, ImpulseSV, Scar, Hypno, Jevin (iJevin), Skizzleman, MumboJumbo, and Smallishbeans
 FETS: False, Etho, Tango Tek, and Scar
 FEW: False, Etho, and Welsknight
 FEZ: False, Etho, and ZedaphPlays
@@ -515,7 +610,12 @@ FICE: False, ImpulseSV, Cubfan135, and Etho
 FICES: False, ImpulseSV, Cubfan135, Etho, and Scar
 FICHE: False, ImpulseSV, Cubfan135, Hypno, and Etho
 FICHES: False, ImpulseSV, Cubfan135, Hypno, Etho, and Scar
+FICTIVE: False, ImpulseSV, Cubfan135, Tango Tek, Jevin (iJevin), Vintage Beef, and Etho
 FID: False, ImpulseSV, and Docm77
+FIDEISM: False, ImpulseSV, Docm77, Etho, Jevin (iJevin), Scar, and MumboJumbo
+FIDEISMS: False, ImpulseSV, Docm77, Etho, Jevin (iJevin), Scar, MumboJumbo, and Skizzleman
+FIDEIST: False, ImpulseSV, Docm77, Etho, Jevin (iJevin), Scar, and Tango Tek
+FIDEISTS: False, ImpulseSV, Docm77, Etho, Jevin (iJevin), Scar, Tango Tek, and Skizzleman
 FIDGE: False, ImpulseSV, Docm77, GeminiTay, and Etho
 FIDGES: False, ImpulseSV, Docm77, GeminiTay, Etho, and Scar
 FIDGET: False, ImpulseSV, Docm77, GeminiTay, Etho, and Tango Tek
@@ -533,6 +633,8 @@ FIR: False, ImpulseSV, and Rendog
 FIRE: False, ImpulseSV, Rendog, and Etho
 FIRED: False, ImpulseSV, Rendog, Etho, and Docm77
 FIRES: False, ImpulseSV, Rendog, Etho, and Scar
+FIRESHIP: False, ImpulseSV, Rendog, Etho, Scar, Hypno, Jevin (iJevin), and PearlescentMoon
+FIRESHIPS: False, ImpulseSV, Rendog, Etho, Scar, Hypno, Jevin (iJevin), PearlescentMoon, and Skizzleman
 FIRM: False, ImpulseSV, Rendog, and MumboJumbo
 FIRMED: False, ImpulseSV, Rendog, MumboJumbo, Etho, and Docm77
 FIRMEST: False, ImpulseSV, Rendog, MumboJumbo, Etho, Scar, and Tango Tek
@@ -549,8 +651,16 @@ FISHED: False, ImpulseSV, Scar, Hypno, Etho, and Docm77
 FISHER: False, ImpulseSV, Scar, Hypno, Etho, and Rendog
 FISHERS: False, ImpulseSV, Scar, Hypno, Etho, Rendog, and Skizzleman
 FISHES: False, ImpulseSV, Scar, Hypno, Etho, and Skizzleman
+FISHGIG: False, ImpulseSV, Scar, Hypno, GeminiTay, Jevin (iJevin), and Grian
+FISHGIGS: False, ImpulseSV, Scar, Hypno, GeminiTay, Jevin (iJevin), Grian, and Skizzleman
+FISHIER: False, ImpulseSV, Scar, Hypno, Jevin (iJevin), Etho, and Rendog
+FISHIEST: False, ImpulseSV, Scar, Hypno, Jevin (iJevin), Etho, Skizzleman, and Tango Tek
+FISHWIVES: False, ImpulseSV, Scar, Hypno, Welsknight, Jevin (iJevin), Vintage Beef, Etho, and Skizzleman
+FISSIPED: False, ImpulseSV, Scar, Skizzleman, Jevin (iJevin), PearlescentMoon, Etho, and Docm77
+FISSIPEDS: False, ImpulseSV, Scar, Skizzleman, Jevin (iJevin), PearlescentMoon, Etho, Docm77, and Smallishbeans
 FIST: False, ImpulseSV, Scar, and Tango Tek
 FISTED: False, ImpulseSV, Scar, Tango Tek, Etho, and Docm77
+FISTIC: False, ImpulseSV, Scar, Tango Tek, Jevin (iJevin), and Cubfan135
 FISTS: False, ImpulseSV, Scar, Tango Tek, and Skizzleman
 FIT: False, ImpulseSV, and Tango Tek
 FITCH: False, ImpulseSV, Tango Tek, Cubfan135, and Hypno
@@ -567,13 +677,18 @@ FIXED: False, ImpulseSV, XBCrafted, Etho, and Docm77
 FIXER: False, ImpulseSV, XBCrafted, Etho, and Rendog
 FIXERS: False, ImpulseSV, XBCrafted, Etho, Rendog, and Scar
 FIXES: False, ImpulseSV, XBCrafted, Etho, and Scar
+FIXIT: False, ImpulseSV, XBCrafted, Jevin (iJevin), and Tango Tek
 FIXT: False, ImpulseSV, XBCrafted, and Tango Tek
 FIZ: False, ImpulseSV, and ZedaphPlays
+FIZGIG: False, ImpulseSV, ZedaphPlays, GeminiTay, Jevin (iJevin), and Grian
+FIZGIGS: False, ImpulseSV, ZedaphPlays, GeminiTay, Jevin (iJevin), Grian, and Scar
 FIZZ: False, ImpulseSV, ZedaphPlays, and ZombieCleo
 FIZZED: False, ImpulseSV, ZedaphPlays, ZombieCleo, Etho, and Docm77
 FIZZER: False, ImpulseSV, ZedaphPlays, ZombieCleo, Etho, and Rendog
 FIZZERS: False, ImpulseSV, ZedaphPlays, ZombieCleo, Etho, Rendog, and Scar
 FIZZES: False, ImpulseSV, ZedaphPlays, ZombieCleo, Etho, and Scar
+FIZZIER: False, ImpulseSV, ZedaphPlays, ZombieCleo, Jevin (iJevin), Etho, and Rendog
+FIZZIEST: False, ImpulseSV, ZedaphPlays, ZombieCleo, Jevin (iJevin), Etho, Scar, and Tango Tek
 FREIGHT: False, Rendog, Etho, ImpulseSV, GeminiTay, Hypno, and Tango Tek
 FREIGHTS: False, Rendog, Etho, ImpulseSV, GeminiTay, Hypno, Tango Tek, and Scar
 FREMD: False, Rendog, Etho, MumboJumbo, and Docm77
@@ -590,6 +705,7 @@ FRIGGED: False, Rendog, ImpulseSV, GeminiTay, Grian, Etho, and Docm77
 FRIGHT: False, Rendog, ImpulseSV, GeminiTay, Hypno, and Tango Tek
 FRIGHTED: False, Rendog, ImpulseSV, GeminiTay, Hypno, Tango Tek, Etho, and Docm77
 FRIGHTS: False, Rendog, ImpulseSV, GeminiTay, Hypno, Tango Tek, and Scar
+FRIGID: False, Rendog, ImpulseSV, GeminiTay, Jevin (iJevin), and Docm77
 FRIGS: False, Rendog, ImpulseSV, GeminiTay, and Scar
 FRISE: False, Rendog, ImpulseSV, Scar, and Etho
 FRISES: False, Rendog, ImpulseSV, Scar, Etho, and Skizzleman
@@ -597,6 +713,7 @@ FRISK: False, Rendog, ImpulseSV, Scar, and Keralis
 FRISKED: False, Rendog, ImpulseSV, Scar, Keralis, Etho, and Docm77
 FRISKET: False, Rendog, ImpulseSV, Scar, Keralis, Etho, and Tango Tek
 FRISKETS: False, Rendog, ImpulseSV, Scar, Keralis, Etho, Tango Tek, and Skizzleman
+FRISKIEST: False, Rendog, ImpulseSV, Scar, Keralis, Jevin (iJevin), Etho, Skizzleman, and Tango Tek
 FRISKS: False, Rendog, ImpulseSV, Scar, Keralis, and Skizzleman
 FRIT: False, Rendog, ImpulseSV, and Tango Tek
 FRITES: False, Rendog, ImpulseSV, Tango Tek, Etho, and Scar
@@ -611,6 +728,8 @@ FRIZES: False, Rendog, ImpulseSV, ZedaphPlays, Etho, and Scar
 FRIZZ: False, Rendog, ImpulseSV, ZedaphPlays, and ZombieCleo
 FRIZZED: False, Rendog, ImpulseSV, ZedaphPlays, ZombieCleo, Etho, and Docm77
 FRIZZES: False, Rendog, ImpulseSV, ZedaphPlays, ZombieCleo, Etho, and Scar
+FRIZZIES: False, Rendog, ImpulseSV, ZedaphPlays, ZombieCleo, Jevin (iJevin), Etho, and Scar
+FRIZZIEST: False, Rendog, ImpulseSV, ZedaphPlays, ZombieCleo, Jevin (iJevin), Etho, Scar, and Tango Tek
 GECK: GeminiTay, Etho, Cubfan135, and Keralis
 GECKS: GeminiTay, Etho, Cubfan135, Keralis, and Scar
 GED: GeminiTay, Etho, and Docm77
@@ -642,13 +761,18 @@ GIFT: GeminiTay, ImpulseSV, False, and Tango Tek
 GIFTED: GeminiTay, ImpulseSV, False, Tango Tek, Etho, and Docm77
 GIFTS: GeminiTay, ImpulseSV, False, Tango Tek, and Scar
 GIG: GeminiTay, ImpulseSV, and Grian
+GIGGED: GeminiTay, ImpulseSV, Grian, Scar (GoodTimesWithScar), Etho, and Docm77
 GIGHE: GeminiTay, ImpulseSV, Grian, Hypno, and Etho
 GIGS: GeminiTay, ImpulseSV, Grian, and Scar
 GIMP: GeminiTay, ImpulseSV, MumboJumbo, and PearlescentMoon
 GIMPED: GeminiTay, ImpulseSV, MumboJumbo, PearlescentMoon, Etho, and Docm77
+GIMPIER: GeminiTay, ImpulseSV, MumboJumbo, PearlescentMoon, Jevin (iJevin), Etho, and Rendog
+GIMPIEST: GeminiTay, ImpulseSV, MumboJumbo, PearlescentMoon, Jevin (iJevin), Etho, Scar, and Tango Tek
 GIMPS: GeminiTay, ImpulseSV, MumboJumbo, PearlescentMoon, and Scar
 GIP: GeminiTay, ImpulseSV, and PearlescentMoon
 GIPS: GeminiTay, ImpulseSV, PearlescentMoon, and Scar
+GIPSIED: GeminiTay, ImpulseSV, PearlescentMoon, Scar, Jevin (iJevin), Etho, and Docm77
+GIPSIES: GeminiTay, ImpulseSV, PearlescentMoon, Scar, Jevin (iJevin), Etho, and Skizzleman
 GIRD: GeminiTay, ImpulseSV, Rendog, and Docm77
 GIRDS: GeminiTay, ImpulseSV, Rendog, Docm77, and Scar
 GIRSH: GeminiTay, ImpulseSV, Rendog, Scar, and Hypno
@@ -685,10 +809,12 @@ GRIM: GeminiTay, Rendog, ImpulseSV, and MumboJumbo
 GRIME: GeminiTay, Rendog, ImpulseSV, MumboJumbo, and Etho
 GRIMED: GeminiTay, Rendog, ImpulseSV, MumboJumbo, Etho, and Docm77
 GRIMES: GeminiTay, Rendog, ImpulseSV, MumboJumbo, Etho, and Scar
+GRIMIEST: GeminiTay, Rendog, ImpulseSV, MumboJumbo, Jevin (iJevin), Etho, Scar, and Tango Tek
 GRIP: GeminiTay, Rendog, ImpulseSV, and PearlescentMoon
 GRIPE: GeminiTay, Rendog, ImpulseSV, PearlescentMoon, and Etho
 GRIPED: GeminiTay, Rendog, ImpulseSV, PearlescentMoon, Etho, and Docm77
 GRIPES: GeminiTay, Rendog, ImpulseSV, PearlescentMoon, Etho, and Scar
+GRIPIEST: GeminiTay, Rendog, ImpulseSV, PearlescentMoon, Jevin (iJevin), Etho, Scar, and Tango Tek
 GRIPS: GeminiTay, Rendog, ImpulseSV, PearlescentMoon, and Scar
 GRIPT: GeminiTay, Rendog, ImpulseSV, PearlescentMoon, and Tango Tek
 GRIST: GeminiTay, Rendog, ImpulseSV, Scar, and Tango Tek
@@ -723,6 +849,7 @@ HERDICS: Hypno, Etho, Rendog, Docm77, ImpulseSV, Cubfan135, and Scar
 HERDS: Hypno, Etho, Rendog, Docm77, and Scar
 HERM: Hypno, Etho, Rendog, and MumboJumbo
 HERMIT: Hypno, Etho, Rendog, MumboJumbo, ImpulseSV, and Tango Tek
+HERMITIC: Hypno, Etho, Rendog, MumboJumbo, ImpulseSV, Tango Tek, Jevin (iJevin), and Cubfan135
 HERMITS: Hypno, Etho, Rendog, MumboJumbo, ImpulseSV, Tango Tek, and Scar
 HERMS: Hypno, Etho, Rendog, MumboJumbo, and Scar
 HERS: Hypno, Etho, Rendog, and Scar
@@ -738,6 +865,8 @@ HEX: Hypno, Etho, and XBCrafted
 HI: Hypno, and ImpulseSV
 HIC: Hypno, ImpulseSV, and Cubfan135
 HICK: Hypno, ImpulseSV, Cubfan135, and Keralis
+HICKIE: Hypno, ImpulseSV, Cubfan135, Keralis, Jevin (iJevin), and Etho
+HICKIES: Hypno, ImpulseSV, Cubfan135, Keralis, Jevin (iJevin), Etho, and Scar
 HICKS: Hypno, ImpulseSV, Cubfan135, Keralis, and Scar
 HID: Hypno, ImpulseSV, and Docm77
 HIDE: Hypno, ImpulseSV, Docm77, and Etho
@@ -757,16 +886,22 @@ HIMS: Hypno, ImpulseSV, MumboJumbo, and Scar
 HIP: Hypno, ImpulseSV, and PearlescentMoon
 HIPS: Hypno, ImpulseSV, PearlescentMoon, and Scar
 HIPSTER: Hypno, ImpulseSV, PearlescentMoon, Scar, Tango Tek, Etho, and Rendog
+HIPSTERISM: Hypno, ImpulseSV, PearlescentMoon, Scar, Tango Tek, Etho, Rendog, Jevin (iJevin), Skizzleman, and MumboJumbo
+HIPSTERISMS: Hypno, ImpulseSV, PearlescentMoon, Scar, Tango Tek, Etho, Rendog, Jevin (iJevin), Skizzleman, MumboJumbo, and Smallishbeans
 HIPSTERS: Hypno, ImpulseSV, PearlescentMoon, Scar, Tango Tek, Etho, Rendog, and Skizzleman
 HIRE: Hypno, ImpulseSV, Rendog, and Etho
 HIRED: Hypno, ImpulseSV, Rendog, Etho, and Docm77
 HIRES: Hypno, ImpulseSV, Rendog, Etho, and Scar
 HIS: Hypno, ImpulseSV, and Scar
+HISPID: Hypno, ImpulseSV, Scar, PearlescentMoon, Jevin (iJevin), and Docm77
 HISS: Hypno, ImpulseSV, Scar, and Skizzleman
 HISSED: Hypno, ImpulseSV, Scar, Skizzleman, Etho, and Docm77
 HISSER: Hypno, ImpulseSV, Scar, Skizzleman, Etho, and Rendog
 HISSERS: Hypno, ImpulseSV, Scar, Skizzleman, Etho, Rendog, and Smallishbeans
 HISSES: Hypno, ImpulseSV, Scar, Skizzleman, Etho, and Smallishbeans
+HISSIER: Hypno, ImpulseSV, Scar, Skizzleman, Jevin (iJevin), Etho, and Rendog
+HISSIES: Hypno, ImpulseSV, Scar, Skizzleman, Jevin (iJevin), Etho, and Smallishbeans
+HISSIEST: Hypno, ImpulseSV, Scar, Skizzleman, Jevin (iJevin), Etho, Smallishbeans, and Tango Tek
 HIST: Hypno, ImpulseSV, Scar, and Tango Tek
 HISTED: Hypno, ImpulseSV, Scar, Tango Tek, Etho, and Docm77
 HISTS: Hypno, ImpulseSV, Scar, Tango Tek, and Skizzleman
@@ -777,14 +912,22 @@ HIVED: Hypno, ImpulseSV, Vintage Beef, Etho, and Docm77
 HIVES: Hypno, ImpulseSV, Vintage Beef, Etho, and Scar
 HM: Hypno, and MumboJumbo
 IBEX: ImpulseSV, BdoubleO, Etho, and XBCrafted
+IBICES: ImpulseSV, BdoubleO, Jevin (iJevin), Cubfan135, Etho, and Scar
+IBIDEM: ImpulseSV, BdoubleO, Jevin (iJevin), Docm77, Etho, and MumboJumbo
+IBIS: ImpulseSV, BdoubleO, Jevin (iJevin), and Scar
+IBISES: ImpulseSV, BdoubleO, Jevin (iJevin), Scar, Etho, and Skizzleman
 ICE: ImpulseSV, Cubfan135, and Etho
 ICED: ImpulseSV, Cubfan135, Etho, and Docm77
 ICES: ImpulseSV, Cubfan135, Etho, and Scar
 ICH: ImpulseSV, Cubfan135, and Hypno
 ICHS: ImpulseSV, Cubfan135, Hypno, and Scar
+ICIER: ImpulseSV, Cubfan135, Jevin (iJevin), Etho, and Rendog
+ICIEST: ImpulseSV, Cubfan135, Jevin (iJevin), Etho, Scar, and Tango Tek
 ICK: ImpulseSV, Cubfan135, and Keralis
 ICKER: ImpulseSV, Cubfan135, Keralis, Etho, and Rendog
 ICKERS: ImpulseSV, Cubfan135, Keralis, Etho, Rendog, and Scar
+ICKIER: ImpulseSV, Cubfan135, Keralis, Jevin (iJevin), Etho, and Rendog
+ICKIEST: ImpulseSV, Cubfan135, Keralis, Jevin (iJevin), Etho, Scar, and Tango Tek
 ID: ImpulseSV, and Docm77
 IDEM: ImpulseSV, Docm77, Etho, and MumboJumbo
 IDES: ImpulseSV, Docm77, Etho, and Scar
@@ -796,8 +939,15 @@ IGGED: ImpulseSV, GeminiTay, Grian, Etho, and Docm77
 IGGS: ImpulseSV, GeminiTay, Grian, and Scar
 IMBED: ImpulseSV, MumboJumbo, BdoubleO, Etho, and Docm77
 IMBEDS: ImpulseSV, MumboJumbo, BdoubleO, Etho, Docm77, and Scar
+IMID: ImpulseSV, MumboJumbo, Jevin (iJevin), and Docm77
+IMIDE: ImpulseSV, MumboJumbo, Jevin (iJevin), Docm77, and Etho
+IMIDES: ImpulseSV, MumboJumbo, Jevin (iJevin), Docm77, Etho, and Scar
+IMIDS: ImpulseSV, MumboJumbo, Jevin (iJevin), Docm77, and Scar
 IMP: ImpulseSV, MumboJumbo, and PearlescentMoon
 IMPED: ImpulseSV, MumboJumbo, PearlescentMoon, Etho, and Docm77
+IMPI: ImpulseSV, MumboJumbo, PearlescentMoon, and Jevin (iJevin)
+IMPIS: ImpulseSV, MumboJumbo, PearlescentMoon, Jevin (iJevin), and Scar
+IMPISH: ImpulseSV, MumboJumbo, PearlescentMoon, Jevin (iJevin), Scar, and Hypno
 IMPRESS: ImpulseSV, MumboJumbo, PearlescentMoon, Rendog, Etho, Scar, and Skizzleman
 IMPREST: ImpulseSV, MumboJumbo, PearlescentMoon, Rendog, Etho, Scar, and Tango Tek
 IMPRESTS: ImpulseSV, MumboJumbo, PearlescentMoon, Rendog, Etho, Scar, Tango Tek, and Skizzleman
@@ -805,20 +955,34 @@ IMPS: ImpulseSV, MumboJumbo, PearlescentMoon, and Scar
 IRE: ImpulseSV, Rendog, and Etho
 IRED: ImpulseSV, Rendog, Etho, and Docm77
 IRES: ImpulseSV, Rendog, Etho, and Scar
+IRID: ImpulseSV, Rendog, Jevin (iJevin), and Docm77
+IRIDES: ImpulseSV, Rendog, Jevin (iJevin), Docm77, Etho, and Scar
+IRIDS: ImpulseSV, Rendog, Jevin (iJevin), Docm77, and Scar
+IRIS: ImpulseSV, Rendog, Jevin (iJevin), and Scar
+IRISED: ImpulseSV, Rendog, Jevin (iJevin), Scar, Etho, and Docm77
+IRISES: ImpulseSV, Rendog, Jevin (iJevin), Scar, Etho, and Skizzleman
 IRK: ImpulseSV, Rendog, and Keralis
 IRKED: ImpulseSV, Rendog, Keralis, Etho, and Docm77
 IRKS: ImpulseSV, Rendog, Keralis, and Scar
 IS: ImpulseSV, and Scar
 ISM: ImpulseSV, Scar, and MumboJumbo
 ISMS: ImpulseSV, Scar, MumboJumbo, and Skizzleman
+ISSEI: ImpulseSV, Scar, Skizzleman, Etho, and Jevin (iJevin)
+ISSEIS: ImpulseSV, Scar, Skizzleman, Etho, Jevin (iJevin), and Smallishbeans
+ISTHMI: ImpulseSV, Scar, Tango Tek, Hypno, MumboJumbo, and Jevin (iJevin)
+ISTHMIC: ImpulseSV, Scar, Tango Tek, Hypno, MumboJumbo, Jevin (iJevin), and Cubfan135
 IT: ImpulseSV, and Tango Tek
 ITCH: ImpulseSV, Tango Tek, Cubfan135, and Hypno
 ITCHED: ImpulseSV, Tango Tek, Cubfan135, Hypno, Etho, and Docm77
 ITCHES: ImpulseSV, Tango Tek, Cubfan135, Hypno, Etho, and Scar
+ITCHIER: ImpulseSV, Tango Tek, Cubfan135, Hypno, Jevin (iJevin), Etho, and Rendog
 ITEM: ImpulseSV, Tango Tek, Etho, and MumboJumbo
 ITEMS: ImpulseSV, Tango Tek, Etho, MumboJumbo, and Scar
 ITHER: ImpulseSV, Tango Tek, Hypno, Etho, and Rendog
 ITS: ImpulseSV, Tango Tek, and Scar
+IVIED: ImpulseSV, Vintage Beef, Jevin (iJevin), Etho, and Docm77
+IVIES: ImpulseSV, Vintage Beef, Jevin (iJevin), Etho, and Scar
+IWIS: ImpulseSV, Welsknight, Jevin (iJevin), and Scar
 JERID: Jevin, Etho, Rendog, ImpulseSV, and Docm77
 JERIDS: Jevin, Etho, Rendog, ImpulseSV, Docm77, and Scar
 JERK: Jevin, Etho, Rendog, and Keralis
@@ -882,7 +1046,14 @@ KHI: Keralis, Hypno, and ImpulseSV
 KHIS: Keralis, Hypno, ImpulseSV, and Scar
 KI: Keralis, and ImpulseSV
 KIBE: Keralis, ImpulseSV, BdoubleO, and Etho
+KIBEI: Keralis, ImpulseSV, BdoubleO, Etho, and Jevin (iJevin)
+KIBEIS: Keralis, ImpulseSV, BdoubleO, Etho, Jevin (iJevin), and Scar
 KIBES: Keralis, ImpulseSV, BdoubleO, Etho, and Scar
+KIBITZ: Keralis, ImpulseSV, BdoubleO, Jevin (iJevin), Tango Tek, and ZedaphPlays
+KIBITZED: Keralis, ImpulseSV, BdoubleO, Jevin (iJevin), Tango Tek, ZedaphPlays, Etho, and Docm77
+KIBITZER: Keralis, ImpulseSV, BdoubleO, Jevin (iJevin), Tango Tek, ZedaphPlays, Etho, and Rendog
+KIBITZERS: Keralis, ImpulseSV, BdoubleO, Jevin (iJevin), Tango Tek, ZedaphPlays, Etho, Rendog, and Scar
+KIBITZES: Keralis, ImpulseSV, BdoubleO, Jevin (iJevin), Tango Tek, ZedaphPlays, Etho, and Scar
 KID: Keralis, ImpulseSV, and Docm77
 KIDS: Keralis, ImpulseSV, Docm77, and Scar
 KIEF: Keralis, ImpulseSV, Etho, and False
@@ -891,6 +1062,8 @@ KIER: Keralis, ImpulseSV, Etho, and Rendog
 KIERS: Keralis, ImpulseSV, Etho, Rendog, and Scar
 KIF: Keralis, ImpulseSV, and False
 KIFS: Keralis, ImpulseSV, False, and Scar
+KIMCHI: Keralis, ImpulseSV, MumboJumbo, Cubfan135, Hypno, and Jevin (iJevin)
+KIMCHIS: Keralis, ImpulseSV, MumboJumbo, Cubfan135, Hypno, Jevin (iJevin), and Scar
 KIP: Keralis, ImpulseSV, and PearlescentMoon
 KIPS: Keralis, ImpulseSV, PearlescentMoon, and Scar
 KIR: Keralis, ImpulseSV, and Rendog
@@ -900,6 +1073,7 @@ KIRSCH: Keralis, ImpulseSV, Rendog, Scar, Cubfan135, and Hypno
 KIRSCHES: Keralis, ImpulseSV, Rendog, Scar, Cubfan135, Hypno, Etho, and Skizzleman
 KIS: Keralis, ImpulseSV, and Scar
 KISMET: Keralis, ImpulseSV, Scar, MumboJumbo, Etho, and Tango Tek
+KISMETIC: Keralis, ImpulseSV, Scar, MumboJumbo, Etho, Tango Tek, Jevin (iJevin), and Cubfan135
 KISMETS: Keralis, ImpulseSV, Scar, MumboJumbo, Etho, Tango Tek, and Skizzleman
 KISS: Keralis, ImpulseSV, Scar, and Skizzleman
 KISSED: Keralis, ImpulseSV, Scar, Skizzleman, Etho, and Docm77
@@ -922,6 +1096,8 @@ KITHS: Keralis, ImpulseSV, Tango Tek, Hypno, and Scar
 KITS: Keralis, ImpulseSV, Tango Tek, and Scar
 KITSCH: Keralis, ImpulseSV, Tango Tek, Scar, Cubfan135, and Hypno
 KITSCHES: Keralis, ImpulseSV, Tango Tek, Scar, Cubfan135, Hypno, Etho, and Skizzleman
+KIWI: Keralis, ImpulseSV, Welsknight, and Jevin (iJevin)
+KIWIS: Keralis, ImpulseSV, Welsknight, Jevin (iJevin), and Scar
 KRIS: Keralis, Rendog, ImpulseSV, and Scar
 KRISES: Keralis, Rendog, ImpulseSV, Scar, Etho, and Skizzleman
 KVETCH: Keralis, Vintage Beef, Etho, Tango Tek, Cubfan135, and Hypno
@@ -931,12 +1107,17 @@ MEDIC: MumboJumbo, Etho, Docm77, ImpulseSV, and Cubfan135
 MEDICK: MumboJumbo, Etho, Docm77, ImpulseSV, Cubfan135, and Keralis
 MEDICKS: MumboJumbo, Etho, Docm77, ImpulseSV, Cubfan135, Keralis, and Scar
 MEDICS: MumboJumbo, Etho, Docm77, ImpulseSV, Cubfan135, and Scar
+MEDII: MumboJumbo, Etho, Docm77, ImpulseSV, and Jevin (iJevin)
 MEDS: MumboJumbo, Etho, Docm77, and Scar
 MEG: MumboJumbo, Etho, and GeminiTay
 MEGS: MumboJumbo, Etho, GeminiTay, and Scar
+MEPHITIC: MumboJumbo, Etho, PearlescentMoon, Hypno, ImpulseSV, Tango Tek, Jevin (iJevin), and Cubfan135
+MEPHITIS: MumboJumbo, Etho, PearlescentMoon, Hypno, ImpulseSV, Tango Tek, Jevin (iJevin), and Scar
 MERC: MumboJumbo, Etho, Rendog, and Cubfan135
 MERCH: MumboJumbo, Etho, Rendog, Cubfan135, and Hypno
 MERCS: MumboJumbo, Etho, Rendog, Cubfan135, and Scar
+MERISIS: MumboJumbo, Etho, Rendog, ImpulseSV, Scar, Jevin (iJevin), and Skizzleman
+MERISTIC: MumboJumbo, Etho, Rendog, ImpulseSV, Scar, Tango Tek, Jevin (iJevin), and Cubfan135
 MERIT: MumboJumbo, Etho, Rendog, ImpulseSV, and Tango Tek
 MERITS: MumboJumbo, Etho, Rendog, ImpulseSV, Tango Tek, and Scar
 MERK: MumboJumbo, Etho, Rendog, and Keralis
@@ -968,13 +1149,24 @@ MIDGE: MumboJumbo, ImpulseSV, Docm77, GeminiTay, and Etho
 MIDGES: MumboJumbo, ImpulseSV, Docm77, GeminiTay, Etho, and Scar
 MIDGET: MumboJumbo, ImpulseSV, Docm77, GeminiTay, Etho, and Tango Tek
 MIDGETS: MumboJumbo, ImpulseSV, Docm77, GeminiTay, Etho, Tango Tek, and Scar
+MIDI: MumboJumbo, ImpulseSV, Docm77, and Jevin (iJevin)
+MIDIS: MumboJumbo, ImpulseSV, Docm77, Jevin (iJevin), and Scar
+MIDRIB: MumboJumbo, ImpulseSV, Docm77, Rendog, Jevin (iJevin), and BdoubleO
+MIDRIBS: MumboJumbo, ImpulseSV, Docm77, Rendog, Jevin (iJevin), BdoubleO, and Scar
 MIDS: MumboJumbo, ImpulseSV, Docm77, and Scar
+MIDSHIP: MumboJumbo, ImpulseSV, Docm77, Scar, Hypno, Jevin (iJevin), and PearlescentMoon
+MIDSHIPS: MumboJumbo, ImpulseSV, Docm77, Scar, Hypno, Jevin (iJevin), PearlescentMoon, and Skizzleman
+MIDSIZE: MumboJumbo, ImpulseSV, Docm77, Scar, Jevin (iJevin), ZedaphPlays, and Etho
 MIDST: MumboJumbo, ImpulseSV, Docm77, Scar, and Tango Tek
 MIDSTS: MumboJumbo, ImpulseSV, Docm77, Scar, Tango Tek, and Skizzleman
+MIDWIFE: MumboJumbo, ImpulseSV, Docm77, Welsknight, Jevin (iJevin), False, and Etho
+MIDWIFES: MumboJumbo, ImpulseSV, Docm77, Welsknight, Jevin (iJevin), False, Etho, and Scar
+MIDWIVES: MumboJumbo, ImpulseSV, Docm77, Welsknight, Jevin (iJevin), Vintage Beef, Etho, and Scar
 MIG: MumboJumbo, ImpulseSV, and GeminiTay
 MIGG: MumboJumbo, ImpulseSV, GeminiTay, and Grian
 MIGGS: MumboJumbo, ImpulseSV, GeminiTay, Grian, and Scar
 MIGHT: MumboJumbo, ImpulseSV, GeminiTay, Hypno, and Tango Tek
+MIGHTIER: MumboJumbo, ImpulseSV, GeminiTay, Hypno, Tango Tek, Jevin (iJevin), Etho, and Rendog
 MIGHTS: MumboJumbo, ImpulseSV, GeminiTay, Hypno, Tango Tek, and Scar
 MIGS: MumboJumbo, ImpulseSV, GeminiTay, and Scar
 MIKE: MumboJumbo, ImpulseSV, Keralis, and Etho
@@ -988,41 +1180,83 @@ MIRE: MumboJumbo, ImpulseSV, Rendog, and Etho
 MIRED: MumboJumbo, ImpulseSV, Rendog, Etho, and Docm77
 MIRES: MumboJumbo, ImpulseSV, Rendog, Etho, and Scar
 MIREX: MumboJumbo, ImpulseSV, Rendog, Etho, and XBCrafted
+MIRI: MumboJumbo, ImpulseSV, Rendog, and Jevin (iJevin)
+MIRIEST: MumboJumbo, ImpulseSV, Rendog, Jevin (iJevin), Etho, Scar, and Tango Tek
 MIRK: MumboJumbo, ImpulseSV, Rendog, and Keralis
 MIRKEST: MumboJumbo, ImpulseSV, Rendog, Keralis, Etho, Scar, and Tango Tek
+MIRKIEST: MumboJumbo, ImpulseSV, Rendog, Keralis, Jevin (iJevin), Etho, Scar, and Tango Tek
 MIRKS: MumboJumbo, ImpulseSV, Rendog, Keralis, and Scar
 MIRS: MumboJumbo, ImpulseSV, Rendog, and Scar
 MIRTH: MumboJumbo, ImpulseSV, Rendog, Tango Tek, and Hypno
 MIRTHS: MumboJumbo, ImpulseSV, Rendog, Tango Tek, Hypno, and Scar
 MIS: MumboJumbo, ImpulseSV, and Scar
+MISCHIEF: MumboJumbo, ImpulseSV, Scar, Cubfan135, Hypno, Jevin (iJevin), Etho, and False
+MISCHIEFS: MumboJumbo, ImpulseSV, Scar, Cubfan135, Hypno, Jevin (iJevin), Etho, False, and Skizzleman
+MISCITE: MumboJumbo, ImpulseSV, Scar, Cubfan135, Jevin (iJevin), Tango Tek, and Etho
+MISCITED: MumboJumbo, ImpulseSV, Scar, Cubfan135, Jevin (iJevin), Tango Tek, Etho, and Docm77
+MISCITES: MumboJumbo, ImpulseSV, Scar, Cubfan135, Jevin (iJevin), Tango Tek, Etho, and Skizzleman
+MISDIRECT: MumboJumbo, ImpulseSV, Scar, Docm77, Jevin (iJevin), Rendog, Etho, Cubfan135, and Tango Tek
+MISDIRECTS: MumboJumbo, ImpulseSV, Scar, Docm77, Jevin (iJevin), Rendog, Etho, Cubfan135, Tango Tek, and Skizzleman
 MISDREW: MumboJumbo, ImpulseSV, Scar, Docm77, Rendog, Etho, and Welsknight
+MISDRIVE: MumboJumbo, ImpulseSV, Scar, Docm77, Rendog, Jevin (iJevin), Vintage Beef, and Etho
+MISDRIVES: MumboJumbo, ImpulseSV, Scar, Docm77, Rendog, Jevin (iJevin), Vintage Beef, Etho, and Skizzleman
 MISE: MumboJumbo, ImpulseSV, Scar, and Etho
+MISEDIT: MumboJumbo, ImpulseSV, Scar, Etho, Docm77, Jevin (iJevin), and Tango Tek
+MISEDITS: MumboJumbo, ImpulseSV, Scar, Etho, Docm77, Jevin (iJevin), Tango Tek, and Skizzleman
 MISER: MumboJumbo, ImpulseSV, Scar, Etho, and Rendog
 MISERS: MumboJumbo, ImpulseSV, Scar, Etho, Rendog, and Skizzleman
 MISES: MumboJumbo, ImpulseSV, Scar, Etho, and Skizzleman
 MISFED: MumboJumbo, ImpulseSV, Scar, False, Etho, and Docm77
+MISFIRE: MumboJumbo, ImpulseSV, Scar, False, Jevin (iJevin), Rendog, and Etho
+MISFIRED: MumboJumbo, ImpulseSV, Scar, False, Jevin (iJevin), Rendog, Etho, and Docm77
+MISFIRES: MumboJumbo, ImpulseSV, Scar, False, Jevin (iJevin), Rendog, Etho, and Skizzleman
+MISFIT: MumboJumbo, ImpulseSV, Scar, False, Jevin (iJevin), and Tango Tek
+MISFITS: MumboJumbo, ImpulseSV, Scar, False, Jevin (iJevin), Tango Tek, and Skizzleman
+MISGIVE: MumboJumbo, ImpulseSV, Scar, GeminiTay, Jevin (iJevin), Vintage Beef, and Etho
+MISGIVES: MumboJumbo, ImpulseSV, Scar, GeminiTay, Jevin (iJevin), Vintage Beef, Etho, and Skizzleman
 MISGREW: MumboJumbo, ImpulseSV, Scar, GeminiTay, Rendog, Etho, and Welsknight
+MISHIT: MumboJumbo, ImpulseSV, Scar, Hypno, Jevin (iJevin), and Tango Tek
+MISHITS: MumboJumbo, ImpulseSV, Scar, Hypno, Jevin (iJevin), Tango Tek, and Skizzleman
 MISKEPT: MumboJumbo, ImpulseSV, Scar, Keralis, Etho, PearlescentMoon, and Tango Tek
+MISPRICE: MumboJumbo, ImpulseSV, Scar, PearlescentMoon, Rendog, Jevin (iJevin), Cubfan135, and Etho
+MISPRICED: MumboJumbo, ImpulseSV, Scar, PearlescentMoon, Rendog, Jevin (iJevin), Cubfan135, Etho, and Docm77
+MISPRICES: MumboJumbo, ImpulseSV, Scar, PearlescentMoon, Rendog, Jevin (iJevin), Cubfan135, Etho, and Skizzleman
+MISPRIZE: MumboJumbo, ImpulseSV, Scar, PearlescentMoon, Rendog, Jevin (iJevin), ZedaphPlays, and Etho
+MISPRIZED: MumboJumbo, ImpulseSV, Scar, PearlescentMoon, Rendog, Jevin (iJevin), ZedaphPlays, Etho, and Docm77
+MISPRIZES: MumboJumbo, ImpulseSV, Scar, PearlescentMoon, Rendog, Jevin (iJevin), ZedaphPlays, Etho, and Skizzleman
 MISS: MumboJumbo, ImpulseSV, Scar, and Skizzleman
 MISSED: MumboJumbo, ImpulseSV, Scar, Skizzleman, Etho, and Docm77
 MISSES: MumboJumbo, ImpulseSV, Scar, Skizzleman, Etho, and Smallishbeans
 MISSET: MumboJumbo, ImpulseSV, Scar, Skizzleman, Etho, and Tango Tek
 MISSETS: MumboJumbo, ImpulseSV, Scar, Skizzleman, Etho, Tango Tek, and Smallishbeans
+MISSIES: MumboJumbo, ImpulseSV, Scar, Skizzleman, Jevin (iJevin), Etho, and Smallishbeans
+MISSIS: MumboJumbo, ImpulseSV, Scar, Skizzleman, Jevin (iJevin), and Smallishbeans
+MISSIVE: MumboJumbo, ImpulseSV, Scar, Skizzleman, Jevin (iJevin), Vintage Beef, and Etho
+MISSIVES: MumboJumbo, ImpulseSV, Scar, Skizzleman, Jevin (iJevin), Vintage Beef, Etho, and Smallishbeans
 MISSTEP: MumboJumbo, ImpulseSV, Scar, Skizzleman, Tango Tek, Etho, and PearlescentMoon
 MISSTEPS: MumboJumbo, ImpulseSV, Scar, Skizzleman, Tango Tek, Etho, PearlescentMoon, and Smallishbeans
+MISSTRIKE: MumboJumbo, ImpulseSV, Scar, Skizzleman, Tango Tek, Rendog, Jevin (iJevin), Keralis, and Etho
+MISSTRIKES: MumboJumbo, ImpulseSV, Scar, Skizzleman, Tango Tek, Rendog, Jevin (iJevin), Keralis, Etho, and Smallishbeans
 MIST: MumboJumbo, ImpulseSV, Scar, and Tango Tek
 MISTED: MumboJumbo, ImpulseSV, Scar, Tango Tek, Etho, and Docm77
 MISTER: MumboJumbo, ImpulseSV, Scar, Tango Tek, Etho, and Rendog
 MISTERS: MumboJumbo, ImpulseSV, Scar, Tango Tek, Etho, Rendog, and Skizzleman
 MISTHREW: MumboJumbo, ImpulseSV, Scar, Tango Tek, Hypno, Rendog, Etho, and Welsknight
+MISTIER: MumboJumbo, ImpulseSV, Scar, Tango Tek, Jevin (iJevin), Etho, and Rendog
 MISTRESS: MumboJumbo, ImpulseSV, Scar, Tango Tek, Rendog, Etho, Skizzleman, and Smallishbeans
 MISTS: MumboJumbo, ImpulseSV, Scar, Tango Tek, and Skizzleman
+MISWRIT: MumboJumbo, ImpulseSV, Scar, Welsknight, Rendog, Jevin (iJevin), and Tango Tek
+MISWRITE: MumboJumbo, ImpulseSV, Scar, Welsknight, Rendog, Jevin (iJevin), Tango Tek, and Etho
+MISWRITES: MumboJumbo, ImpulseSV, Scar, Welsknight, Rendog, Jevin (iJevin), Tango Tek, Etho, and Skizzleman
 MITE: MumboJumbo, ImpulseSV, Tango Tek, and Etho
 MITER: MumboJumbo, ImpulseSV, Tango Tek, Etho, and Rendog
 MITERS: MumboJumbo, ImpulseSV, Tango Tek, Etho, Rendog, and Scar
 MITES: MumboJumbo, ImpulseSV, Tango Tek, Etho, and Scar
 MITHER: MumboJumbo, ImpulseSV, Tango Tek, Hypno, Etho, and Rendog
 MITHERS: MumboJumbo, ImpulseSV, Tango Tek, Hypno, Etho, Rendog, and Scar
+MITIER: MumboJumbo, ImpulseSV, Tango Tek, Jevin (iJevin), Etho, and Rendog
+MITIS: MumboJumbo, ImpulseSV, Tango Tek, Jevin (iJevin), and Scar
+MITISES: MumboJumbo, ImpulseSV, Tango Tek, Jevin (iJevin), Scar, Etho, and Skizzleman
 MITRE: MumboJumbo, ImpulseSV, Tango Tek, Rendog, and Etho
 MITRED: MumboJumbo, ImpulseSV, Tango Tek, Rendog, Etho, and Docm77
 MITRES: MumboJumbo, ImpulseSV, Tango Tek, Rendog, Etho, and Scar
@@ -1051,6 +1285,9 @@ PERCH: PearlescentMoon, Etho, Rendog, Cubfan135, and Hypno
 PERI: PearlescentMoon, Etho, Rendog, and ImpulseSV
 PERIS: PearlescentMoon, Etho, Rendog, ImpulseSV, and Scar
 PERISH: PearlescentMoon, Etho, Rendog, ImpulseSV, Scar, and Hypno
+PERITI: PearlescentMoon, Etho, Rendog, ImpulseSV, Tango Tek, and Jevin (iJevin)
+PERIWIG: PearlescentMoon, Etho, Rendog, ImpulseSV, Welsknight, Jevin (iJevin), and GeminiTay
+PERIWIGS: PearlescentMoon, Etho, Rendog, ImpulseSV, Welsknight, Jevin (iJevin), GeminiTay, and Scar
 PERK: PearlescentMoon, Etho, Rendog, and Keralis
 PERKISH: PearlescentMoon, Etho, Rendog, Keralis, ImpulseSV, Scar, and Hypno
 PERKS: PearlescentMoon, Etho, Rendog, Keralis, and Scar
@@ -1064,6 +1301,7 @@ PERT: PearlescentMoon, Etho, Rendog, and Tango Tek
 PERV: PearlescentMoon, Etho, Rendog, and Vintage Beef
 PERVS: PearlescentMoon, Etho, Rendog, Vintage Beef, and Scar
 PES: PearlescentMoon, Etho, and Scar
+PESSIMIST: PearlescentMoon, Etho, Scar, Skizzleman, ImpulseSV, MumboJumbo, Jevin (iJevin), Smallishbeans, and Tango Tek
 PEST: PearlescentMoon, Etho, Scar, and Tango Tek
 PESTS: PearlescentMoon, Etho, Scar, Tango Tek, and Skizzleman
 PET: PearlescentMoon, Etho, and Tango Tek
@@ -1087,27 +1325,51 @@ PICKER: PearlescentMoon, ImpulseSV, Cubfan135, Keralis, Etho, and Rendog
 PICKERS: PearlescentMoon, ImpulseSV, Cubfan135, Keralis, Etho, Rendog, and Scar
 PICKET: PearlescentMoon, ImpulseSV, Cubfan135, Keralis, Etho, and Tango Tek
 PICKETS: PearlescentMoon, ImpulseSV, Cubfan135, Keralis, Etho, Tango Tek, and Scar
+PICKIER: PearlescentMoon, ImpulseSV, Cubfan135, Keralis, Jevin (iJevin), Etho, and Rendog
+PICKIEST: PearlescentMoon, ImpulseSV, Cubfan135, Keralis, Jevin (iJevin), Etho, Scar, and Tango Tek
 PICKS: PearlescentMoon, ImpulseSV, Cubfan135, Keralis, and Scar
+PICRITE: PearlescentMoon, ImpulseSV, Cubfan135, Rendog, Jevin (iJevin), Tango Tek, and Etho
+PICRITES: PearlescentMoon, ImpulseSV, Cubfan135, Rendog, Jevin (iJevin), Tango Tek, Etho, and Scar
 PICS: PearlescentMoon, ImpulseSV, Cubfan135, and Scar
 PIE: PearlescentMoon, ImpulseSV, and Etho
 PIED: PearlescentMoon, ImpulseSV, Etho, and Docm77
 PIER: PearlescentMoon, ImpulseSV, Etho, and Rendog
 PIERS: PearlescentMoon, ImpulseSV, Etho, Rendog, and Scar
 PIES: PearlescentMoon, ImpulseSV, Etho, and Scar
+PIETISM: PearlescentMoon, ImpulseSV, Etho, Tango Tek, Jevin (iJevin), Scar, and MumboJumbo
+PIETISMS: PearlescentMoon, ImpulseSV, Etho, Tango Tek, Jevin (iJevin), Scar, MumboJumbo, and Skizzleman
 PIG: PearlescentMoon, ImpulseSV, and GeminiTay
+PIGFISH: PearlescentMoon, ImpulseSV, GeminiTay, False, Jevin (iJevin), Scar, and Hypno
+PIGFISHES: PearlescentMoon, ImpulseSV, GeminiTay, False, Jevin (iJevin), Scar, Hypno, Etho, and Skizzleman
 PIGGED: PearlescentMoon, ImpulseSV, GeminiTay, Grian, Etho, and Docm77
+PIGGIE: PearlescentMoon, ImpulseSV, GeminiTay, Grian, Jevin (iJevin), and Etho
+PIGGIER: PearlescentMoon, ImpulseSV, GeminiTay, Grian, Jevin (iJevin), Etho, and Rendog
+PIGGIES: PearlescentMoon, ImpulseSV, GeminiTay, Grian, Jevin (iJevin), Etho, and Scar
+PIGGIEST: PearlescentMoon, ImpulseSV, GeminiTay, Grian, Jevin (iJevin), Etho, Scar, and Tango Tek
+PIGGISH: PearlescentMoon, ImpulseSV, GeminiTay, Grian, Jevin (iJevin), Scar, and Hypno
+PIGMIES: PearlescentMoon, ImpulseSV, GeminiTay, MumboJumbo, Jevin (iJevin), Etho, and Scar
 PIGS: PearlescentMoon, ImpulseSV, GeminiTay, and Scar
+PIGSTICK: PearlescentMoon, ImpulseSV, GeminiTay, Scar, Tango Tek, Jevin (iJevin), Cubfan135, and Keralis
+PIGSTICKED: PearlescentMoon, ImpulseSV, GeminiTay, Scar, Tango Tek, Jevin (iJevin), Cubfan135, Keralis, Etho, and Docm77
+PIGSTICKER: PearlescentMoon, ImpulseSV, GeminiTay, Scar, Tango Tek, Jevin (iJevin), Cubfan135, Keralis, Etho, and Rendog
+PIGSTICKERS: PearlescentMoon, ImpulseSV, GeminiTay, Scar, Tango Tek, Jevin (iJevin), Cubfan135, Keralis, Etho, Rendog, and Skizzleman
+PIGSTICKS: PearlescentMoon, ImpulseSV, GeminiTay, Scar, Tango Tek, Jevin (iJevin), Cubfan135, Keralis, and Skizzleman
+PIGSTIES: PearlescentMoon, ImpulseSV, GeminiTay, Scar, Tango Tek, Jevin (iJevin), Etho, and Skizzleman
 PIKE: PearlescentMoon, ImpulseSV, Keralis, and Etho
 PIKED: PearlescentMoon, ImpulseSV, Keralis, Etho, and Docm77
 PIKER: PearlescentMoon, ImpulseSV, Keralis, Etho, and Rendog
 PIKERS: PearlescentMoon, ImpulseSV, Keralis, Etho, Rendog, and Scar
 PIKES: PearlescentMoon, ImpulseSV, Keralis, Etho, and Scar
+PIKI: PearlescentMoon, ImpulseSV, Keralis, and Jevin (iJevin)
+PIKIS: PearlescentMoon, ImpulseSV, Keralis, Jevin (iJevin), and Scar
 PIS: PearlescentMoon, ImpulseSV, and Scar
 PISH: PearlescentMoon, ImpulseSV, Scar, and Hypno
 PISHED: PearlescentMoon, ImpulseSV, Scar, Hypno, Etho, and Docm77
 PISHER: PearlescentMoon, ImpulseSV, Scar, Hypno, Etho, and Rendog
 PISHERS: PearlescentMoon, ImpulseSV, Scar, Hypno, Etho, Rendog, and Skizzleman
 PISHES: PearlescentMoon, ImpulseSV, Scar, Hypno, Etho, and Skizzleman
+PISMIRE: PearlescentMoon, ImpulseSV, Scar, MumboJumbo, Jevin (iJevin), Rendog, and Etho
+PISMIRES: PearlescentMoon, ImpulseSV, Scar, MumboJumbo, Jevin (iJevin), Rendog, Etho, and Skizzleman
 PISS: PearlescentMoon, ImpulseSV, Scar, and Skizzleman
 PISSED: PearlescentMoon, ImpulseSV, Scar, Skizzleman, Etho, and Docm77
 PISSER: PearlescentMoon, ImpulseSV, Scar, Skizzleman, Etho, and Rendog
@@ -1121,12 +1383,20 @@ PITCHED: PearlescentMoon, ImpulseSV, Tango Tek, Cubfan135, Hypno, Etho, and Docm
 PITCHER: PearlescentMoon, ImpulseSV, Tango Tek, Cubfan135, Hypno, Etho, and Rendog
 PITCHERS: PearlescentMoon, ImpulseSV, Tango Tek, Cubfan135, Hypno, Etho, Rendog, and Scar
 PITCHES: PearlescentMoon, ImpulseSV, Tango Tek, Cubfan135, Hypno, Etho, and Scar
+PITCHIER: PearlescentMoon, ImpulseSV, Tango Tek, Cubfan135, Hypno, Jevin (iJevin), Etho, and Rendog
 PITH: PearlescentMoon, ImpulseSV, Tango Tek, and Hypno
 PITHED: PearlescentMoon, ImpulseSV, Tango Tek, Hypno, Etho, and Docm77
+PITHIER: PearlescentMoon, ImpulseSV, Tango Tek, Hypno, Jevin (iJevin), Etho, and Rendog
 PITHS: PearlescentMoon, ImpulseSV, Tango Tek, Hypno, and Scar
+PITIED: PearlescentMoon, ImpulseSV, Tango Tek, Jevin (iJevin), Etho, and Docm77
+PITIER: PearlescentMoon, ImpulseSV, Tango Tek, Jevin (iJevin), Etho, and Rendog
+PITIERS: PearlescentMoon, ImpulseSV, Tango Tek, Jevin (iJevin), Etho, Rendog, and Scar
+PITIES: PearlescentMoon, ImpulseSV, Tango Tek, Jevin (iJevin), Etho, and Scar
 PITS: PearlescentMoon, ImpulseSV, Tango Tek, and Scar
 PIX: PearlescentMoon, ImpulseSV, and XBCrafted
 PIXES: PearlescentMoon, ImpulseSV, XBCrafted, Etho, and Scar
+PIXIE: PearlescentMoon, ImpulseSV, XBCrafted, Jevin (iJevin), and Etho
+PIXIES: PearlescentMoon, ImpulseSV, XBCrafted, Jevin (iJevin), Etho, and Scar
 PREBID: PearlescentMoon, Rendog, Etho, BdoubleO, ImpulseSV, and Docm77
 PREBIDS: PearlescentMoon, Rendog, Etho, BdoubleO, ImpulseSV, Docm77, and Scar
 PRECIS: PearlescentMoon, Rendog, Etho, Cubfan135, ImpulseSV, and Scar
@@ -1142,15 +1412,19 @@ PRESIFTS: PearlescentMoon, Rendog, Etho, Scar, ImpulseSV, False, Tango Tek, and 
 PRESS: PearlescentMoon, Rendog, Etho, Scar, and Skizzleman
 PREST: PearlescentMoon, Rendog, Etho, Scar, and Tango Tek
 PRESTS: PearlescentMoon, Rendog, Etho, Scar, Tango Tek, and Skizzleman
+PREVISIT: PearlescentMoon, Rendog, Etho, Vintage Beef, ImpulseSV, Scar, Jevin (iJevin), and Tango Tek
+PREVISITS: PearlescentMoon, Rendog, Etho, Vintage Beef, ImpulseSV, Scar, Jevin (iJevin), Tango Tek, and Skizzleman
 PREX: PearlescentMoon, Rendog, Etho, and XBCrafted
 PREZ: PearlescentMoon, Rendog, Etho, and ZedaphPlays
 PRICE: PearlescentMoon, Rendog, ImpulseSV, Cubfan135, and Etho
 PRICED: PearlescentMoon, Rendog, ImpulseSV, Cubfan135, Etho, and Docm77
 PRICES: PearlescentMoon, Rendog, ImpulseSV, Cubfan135, Etho, and Scar
+PRICIEST: PearlescentMoon, Rendog, ImpulseSV, Cubfan135, Jevin (iJevin), Etho, Scar, and Tango Tek
 PRICK: PearlescentMoon, Rendog, ImpulseSV, Cubfan135, and Keralis
 PRICKED: PearlescentMoon, Rendog, ImpulseSV, Cubfan135, Keralis, Etho, and Docm77
 PRICKET: PearlescentMoon, Rendog, ImpulseSV, Cubfan135, Keralis, Etho, and Tango Tek
 PRICKETS: PearlescentMoon, Rendog, ImpulseSV, Cubfan135, Keralis, Etho, Tango Tek, and Scar
+PRICKIEST: PearlescentMoon, Rendog, ImpulseSV, Cubfan135, Keralis, Jevin (iJevin), Etho, Scar, and Tango Tek
 PRICKS: PearlescentMoon, Rendog, ImpulseSV, Cubfan135, Keralis, and Scar
 PRIDE: PearlescentMoon, Rendog, ImpulseSV, Docm77, and Etho
 PRIDES: PearlescentMoon, Rendog, ImpulseSV, Docm77, Etho, and Scar
@@ -1160,12 +1434,17 @@ PRIEST: PearlescentMoon, Rendog, ImpulseSV, Etho, Scar, and Tango Tek
 PRIESTS: PearlescentMoon, Rendog, ImpulseSV, Etho, Scar, Tango Tek, and Skizzleman
 PRIG: PearlescentMoon, Rendog, ImpulseSV, and GeminiTay
 PRIGGED: PearlescentMoon, Rendog, ImpulseSV, GeminiTay, Grian, Etho, and Docm77
+PRIGGISH: PearlescentMoon, Rendog, ImpulseSV, GeminiTay, Grian, Jevin (iJevin), Scar, and Hypno
+PRIGGISM: PearlescentMoon, Rendog, ImpulseSV, GeminiTay, Grian, Jevin (iJevin), Scar, and MumboJumbo
+PRIGGISMS: PearlescentMoon, Rendog, ImpulseSV, GeminiTay, Grian, Jevin (iJevin), Scar, MumboJumbo, and Skizzleman
 PRIGS: PearlescentMoon, Rendog, ImpulseSV, GeminiTay, and Scar
 PRIM: PearlescentMoon, Rendog, ImpulseSV, and MumboJumbo
 PRIME: PearlescentMoon, Rendog, ImpulseSV, MumboJumbo, and Etho
 PRIMED: PearlescentMoon, Rendog, ImpulseSV, MumboJumbo, Etho, and Docm77
 PRIMES: PearlescentMoon, Rendog, ImpulseSV, MumboJumbo, Etho, and Scar
+PRIMI: PearlescentMoon, Rendog, ImpulseSV, MumboJumbo, and Jevin (iJevin)
 PRIMS: PearlescentMoon, Rendog, ImpulseSV, MumboJumbo, and Scar
+PRIMSIE: PearlescentMoon, Rendog, ImpulseSV, MumboJumbo, Scar, Jevin (iJevin), and Etho
 PRISE: PearlescentMoon, Rendog, ImpulseSV, Scar, and Etho
 PRISED: PearlescentMoon, Rendog, ImpulseSV, Scar, Etho, and Docm77
 PRISES: PearlescentMoon, Rendog, ImpulseSV, Scar, Etho, and Skizzleman
@@ -1174,10 +1453,16 @@ PRISMS: PearlescentMoon, Rendog, ImpulseSV, Scar, MumboJumbo, and Skizzleman
 PRISS: PearlescentMoon, Rendog, ImpulseSV, Scar, and Skizzleman
 PRISSED: PearlescentMoon, Rendog, ImpulseSV, Scar, Skizzleman, Etho, and Docm77
 PRISSES: PearlescentMoon, Rendog, ImpulseSV, Scar, Skizzleman, Etho, and Smallishbeans
+PRISSIES: PearlescentMoon, Rendog, ImpulseSV, Scar, Skizzleman, Jevin (iJevin), Etho, and Smallishbeans
+PRISSIEST: PearlescentMoon, Rendog, ImpulseSV, Scar, Skizzleman, Jevin (iJevin), Etho, Smallishbeans, and Tango Tek
 PRIVET: PearlescentMoon, Rendog, ImpulseSV, Vintage Beef, Etho, and Tango Tek
 PRIVETS: PearlescentMoon, Rendog, ImpulseSV, Vintage Beef, Etho, Tango Tek, and Scar
+PRIVIES: PearlescentMoon, Rendog, ImpulseSV, Vintage Beef, Jevin (iJevin), Etho, and Scar
+PRIVIEST: PearlescentMoon, Rendog, ImpulseSV, Vintage Beef, Jevin (iJevin), Etho, Scar, and Tango Tek
 PRIZE: PearlescentMoon, Rendog, ImpulseSV, ZedaphPlays, and Etho
 PRIZED: PearlescentMoon, Rendog, ImpulseSV, ZedaphPlays, Etho, and Docm77
+PRIZEFIGHT: PearlescentMoon, Rendog, ImpulseSV, ZedaphPlays, Etho, False, Jevin (iJevin), GeminiTay, Hypno, and Tango Tek
+PRIZEFIGHTS: PearlescentMoon, Rendog, ImpulseSV, ZedaphPlays, Etho, False, Jevin (iJevin), GeminiTay, Hypno, Tango Tek, and Scar
 PRIZES: PearlescentMoon, Rendog, ImpulseSV, ZedaphPlays, Etho, and Scar
 PSI: PearlescentMoon, Scar, and ImpulseSV
 PSIS: PearlescentMoon, Scar, ImpulseSV, and Skizzleman
@@ -1248,6 +1533,8 @@ RET: Rendog, Etho, and Tango Tek
 RETCH: Rendog, Etho, Tango Tek, Cubfan135, and Hypno
 RETS: Rendog, Etho, Tango Tek, and Scar
 REV: Rendog, Etho, and Vintage Beef
+REVISIT: Rendog, Etho, Vintage Beef, ImpulseSV, Scar, Jevin (iJevin), and Tango Tek
+REVISITS: Rendog, Etho, Vintage Beef, ImpulseSV, Scar, Jevin (iJevin), Tango Tek, and Skizzleman
 REVS: Rendog, Etho, Vintage Beef, and Scar
 REX: Rendog, Etho, and XBCrafted
 RIB: Rendog, ImpulseSV, and BdoubleO
@@ -1268,6 +1555,7 @@ RIDE: Rendog, ImpulseSV, Docm77, and Etho
 RIDES: Rendog, ImpulseSV, Docm77, Etho, and Scar
 RIDGE: Rendog, ImpulseSV, Docm77, GeminiTay, and Etho
 RIDGES: Rendog, ImpulseSV, Docm77, GeminiTay, Etho, and Scar
+RIDGIEST: Rendog, ImpulseSV, Docm77, GeminiTay, Jevin (iJevin), Etho, Scar, and Tango Tek
 RIDS: Rendog, ImpulseSV, Docm77, and Scar
 RIF: Rendog, ImpulseSV, and False
 RIFE: Rendog, ImpulseSV, False, and Etho
@@ -1280,12 +1568,20 @@ RIG: Rendog, ImpulseSV, and GeminiTay
 RIGGED: Rendog, ImpulseSV, GeminiTay, Grian, Etho, and Docm77
 RIGHT: Rendog, ImpulseSV, GeminiTay, Hypno, and Tango Tek
 RIGHTED: Rendog, ImpulseSV, GeminiTay, Hypno, Tango Tek, Etho, and Docm77
+RIGHTIES: Rendog, ImpulseSV, GeminiTay, Hypno, Tango Tek, Jevin (iJevin), Etho, and Scar
+RIGHTISM: Rendog, ImpulseSV, GeminiTay, Hypno, Tango Tek, Jevin (iJevin), Scar, and MumboJumbo
+RIGHTISMS: Rendog, ImpulseSV, GeminiTay, Hypno, Tango Tek, Jevin (iJevin), Scar, MumboJumbo, and Skizzleman
 RIGHTS: Rendog, ImpulseSV, GeminiTay, Hypno, Tango Tek, and Scar
+RIGHTSIZE: Rendog, ImpulseSV, GeminiTay, Hypno, Tango Tek, Scar, Jevin (iJevin), ZedaphPlays, and Etho
+RIGHTSIZED: Rendog, ImpulseSV, GeminiTay, Hypno, Tango Tek, Scar, Jevin (iJevin), ZedaphPlays, Etho, and Docm77
+RIGHTSIZES: Rendog, ImpulseSV, GeminiTay, Hypno, Tango Tek, Scar, Jevin (iJevin), ZedaphPlays, Etho, and Skizzleman
+RIGID: Rendog, ImpulseSV, GeminiTay, Jevin (iJevin), and Docm77
 RIGS: Rendog, ImpulseSV, GeminiTay, and Scar
 RIM: Rendog, ImpulseSV, and MumboJumbo
 RIME: Rendog, ImpulseSV, MumboJumbo, and Etho
 RIMED: Rendog, ImpulseSV, MumboJumbo, Etho, and Docm77
 RIMES: Rendog, ImpulseSV, MumboJumbo, Etho, and Scar
+RIMIEST: Rendog, ImpulseSV, MumboJumbo, Jevin (iJevin), Etho, Scar, and Tango Tek
 RIMS: Rendog, ImpulseSV, MumboJumbo, and Scar
 RIP: Rendog, ImpulseSV, and PearlescentMoon
 RIPE: Rendog, ImpulseSV, PearlescentMoon, and Etho
@@ -1293,10 +1589,15 @@ RIPED: Rendog, ImpulseSV, PearlescentMoon, Etho, and Docm77
 RIPES: Rendog, ImpulseSV, PearlescentMoon, Etho, and Scar
 RIPEST: Rendog, ImpulseSV, PearlescentMoon, Etho, Scar, and Tango Tek
 RIPS: Rendog, ImpulseSV, PearlescentMoon, and Scar
+RIPTIDE: Rendog, ImpulseSV, PearlescentMoon, Tango Tek, Jevin (iJevin), Docm77, and Etho
+RIPTIDES: Rendog, ImpulseSV, PearlescentMoon, Tango Tek, Jevin (iJevin), Docm77, Etho, and Scar
 RISE: Rendog, ImpulseSV, Scar, and Etho
 RISES: Rendog, ImpulseSV, Scar, Etho, and Skizzleman
+RISHI: Rendog, ImpulseSV, Scar, Hypno, and Jevin (iJevin)
+RISHIS: Rendog, ImpulseSV, Scar, Hypno, Jevin (iJevin), and Skizzleman
 RISK: Rendog, ImpulseSV, Scar, and Keralis
 RISKED: Rendog, ImpulseSV, Scar, Keralis, Etho, and Docm77
+RISKIEST: Rendog, ImpulseSV, Scar, Keralis, Jevin (iJevin), Etho, Skizzleman, and Tango Tek
 RISKS: Rendog, ImpulseSV, Scar, Keralis, and Skizzleman
 RITE: Rendog, ImpulseSV, Tango Tek, and Etho
 RITES: Rendog, ImpulseSV, Tango Tek, Etho, and Scar
@@ -1312,10 +1613,16 @@ SCHISM: Scar, Cubfan135, Hypno, ImpulseSV, Skizzleman, and MumboJumbo
 SCHISMS: Scar, Cubfan135, Hypno, ImpulseSV, Skizzleman, MumboJumbo, and Smallishbeans
 SCHIST: Scar, Cubfan135, Hypno, ImpulseSV, Skizzleman, and Tango Tek
 SCHISTS: Scar, Cubfan135, Hypno, ImpulseSV, Skizzleman, Tango Tek, and Smallishbeans
+SCHIZIER: Scar, Cubfan135, Hypno, ImpulseSV, ZedaphPlays, Jevin (iJevin), Etho, and Rendog
+SCHIZIEST: Scar, Cubfan135, Hypno, ImpulseSV, ZedaphPlays, Jevin (iJevin), Etho, Skizzleman, and Tango Tek
+SCHIZZIER: Scar, Cubfan135, Hypno, ImpulseSV, ZedaphPlays, ZombieCleo, Jevin (iJevin), Etho, and Rendog
+SCHIZZIEST: Scar, Cubfan135, Hypno, ImpulseSV, ZedaphPlays, ZombieCleo, Jevin (iJevin), Etho, Skizzleman, and Tango Tek
 SCHRIK: Scar, Cubfan135, Hypno, Rendog, ImpulseSV, and Keralis
 SCHRIKS: Scar, Cubfan135, Hypno, Rendog, ImpulseSV, Keralis, and Skizzleman
 SCHTIK: Scar, Cubfan135, Hypno, Tango Tek, ImpulseSV, and Keralis
 SCHTIKS: Scar, Cubfan135, Hypno, Tango Tek, ImpulseSV, Keralis, and Skizzleman
+SCIMITER: Scar, Cubfan135, ImpulseSV, MumboJumbo, Jevin (iJevin), Tango Tek, Etho, and Rendog
+SCIMITERS: Scar, Cubfan135, ImpulseSV, MumboJumbo, Jevin (iJevin), Tango Tek, Etho, Rendog, and Skizzleman
 SCREW: Scar, Cubfan135, Rendog, Etho, and Welsknight
 SCREWS: Scar, Cubfan135, Rendog, Etho, Welsknight, and Skizzleman
 SCRIBE: Scar, Cubfan135, Rendog, ImpulseSV, BdoubleO, and Etho
@@ -1326,6 +1633,8 @@ SCRIES: Scar, Cubfan135, Rendog, ImpulseSV, Etho, and Skizzleman
 SCRIM: Scar, Cubfan135, Rendog, ImpulseSV, and MumboJumbo
 SCRIMP: Scar, Cubfan135, Rendog, ImpulseSV, MumboJumbo, and PearlescentMoon
 SCRIMPED: Scar, Cubfan135, Rendog, ImpulseSV, MumboJumbo, PearlescentMoon, Etho, and Docm77
+SCRIMPIEST: Scar, Cubfan135, Rendog, ImpulseSV, MumboJumbo, PearlescentMoon, Jevin (iJevin), Etho, Skizzleman, and Tango Tek
+SCRIMPIT: Scar, Cubfan135, Rendog, ImpulseSV, MumboJumbo, PearlescentMoon, Jevin (iJevin), and Tango Tek
 SCRIMPS: Scar, Cubfan135, Rendog, ImpulseSV, MumboJumbo, PearlescentMoon, and Skizzleman
 SCRIMS: Scar, Cubfan135, Rendog, ImpulseSV, MumboJumbo, and Skizzleman
 SCRIP: Scar, Cubfan135, Rendog, ImpulseSV, and PearlescentMoon
@@ -1347,8 +1656,10 @@ SEIF: Scar, Etho, ImpulseSV, and False
 SEIFS: Scar, Etho, ImpulseSV, False, and Skizzleman
 SEIS: Scar, Etho, ImpulseSV, and Skizzleman
 SEISM: Scar, Etho, ImpulseSV, Skizzleman, and MumboJumbo
+SEISMIC: Scar, Etho, ImpulseSV, Skizzleman, MumboJumbo, Jevin (iJevin), and Cubfan135
 SEISMS: Scar, Etho, ImpulseSV, Skizzleman, MumboJumbo, and Smallishbeans
 SEMI: Scar, Etho, MumboJumbo, and ImpulseSV
+SEMIFIT: Scar, Etho, MumboJumbo, ImpulseSV, False, Jevin (iJevin), and Tango Tek
 SEMIS: Scar, Etho, MumboJumbo, ImpulseSV, and Skizzleman
 SEPIC: Scar, Etho, PearlescentMoon, ImpulseSV, and Cubfan135
 SEPSIS: Scar, Etho, PearlescentMoon, Skizzleman, ImpulseSV, and Smallishbeans
@@ -1399,6 +1710,7 @@ SHIFT: Scar, Hypno, ImpulseSV, False, and Tango Tek
 SHIFTED: Scar, Hypno, ImpulseSV, False, Tango Tek, Etho, and Docm77
 SHIFTER: Scar, Hypno, ImpulseSV, False, Tango Tek, Etho, and Rendog
 SHIFTERS: Scar, Hypno, ImpulseSV, False, Tango Tek, Etho, Rendog, and Skizzleman
+SHIFTIER: Scar, Hypno, ImpulseSV, False, Tango Tek, Jevin (iJevin), Etho, and Rendog
 SHIFTS: Scar, Hypno, ImpulseSV, False, Tango Tek, and Skizzleman
 SHIKSE: Scar, Hypno, ImpulseSV, Keralis, Skizzleman, and Etho
 SHIKSES: Scar, Hypno, ImpulseSV, Keralis, Skizzleman, Etho, and Smallishbeans
@@ -1406,6 +1718,8 @@ SHIM: Scar, Hypno, ImpulseSV, and MumboJumbo
 SHIMS: Scar, Hypno, ImpulseSV, MumboJumbo, and Skizzleman
 SHIP: Scar, Hypno, ImpulseSV, and PearlescentMoon
 SHIPS: Scar, Hypno, ImpulseSV, PearlescentMoon, and Skizzleman
+SHIPSIDE: Scar, Hypno, ImpulseSV, PearlescentMoon, Skizzleman, Jevin (iJevin), Docm77, and Etho
+SHIPSIDES: Scar, Hypno, ImpulseSV, PearlescentMoon, Skizzleman, Jevin (iJevin), Docm77, Etho, and Smallishbeans
 SHIPWRECK: Scar, Hypno, ImpulseSV, PearlescentMoon, Welsknight, Rendog, Etho, Cubfan135, and Keralis
 SHIPWRECKS: Scar, Hypno, ImpulseSV, PearlescentMoon, Welsknight, Rendog, Etho, Cubfan135, Keralis, and Skizzleman
 SHIRE: Scar, Hypno, ImpulseSV, Rendog, and Etho
@@ -1439,12 +1753,14 @@ SHRIKE: Scar, Hypno, Rendog, ImpulseSV, Keralis, and Etho
 SHRIKES: Scar, Hypno, Rendog, ImpulseSV, Keralis, Etho, and Skizzleman
 SHRIMP: Scar, Hypno, Rendog, ImpulseSV, MumboJumbo, and PearlescentMoon
 SHRIMPED: Scar, Hypno, Rendog, ImpulseSV, MumboJumbo, PearlescentMoon, Etho, and Docm77
+SHRIMPIEST: Scar, Hypno, Rendog, ImpulseSV, MumboJumbo, PearlescentMoon, Jevin (iJevin), Etho, Skizzleman, and Tango Tek
 SHRIMPS: Scar, Hypno, Rendog, ImpulseSV, MumboJumbo, PearlescentMoon, and Skizzleman
 SHRIS: Scar, Hypno, Rendog, ImpulseSV, and Skizzleman
 SHRIVE: Scar, Hypno, Rendog, ImpulseSV, Vintage Beef, and Etho
 SHRIVED: Scar, Hypno, Rendog, ImpulseSV, Vintage Beef, Etho, and Docm77
 SHRIVES: Scar, Hypno, Rendog, ImpulseSV, Vintage Beef, Etho, and Skizzleman
 SHTICK: Scar, Hypno, Tango Tek, ImpulseSV, Cubfan135, and Keralis
+SHTICKIER: Scar, Hypno, Tango Tek, ImpulseSV, Cubfan135, Keralis, Jevin (iJevin), Etho, and Rendog
 SHTICKS: Scar, Hypno, Tango Tek, ImpulseSV, Cubfan135, Keralis, and Skizzleman
 SHTIK: Scar, Hypno, Tango Tek, ImpulseSV, and Keralis
 SHTIKS: Scar, Hypno, Tango Tek, ImpulseSV, Keralis, and Skizzleman
@@ -1460,6 +1776,9 @@ SICKBEDS: Scar, ImpulseSV, Cubfan135, Keralis, BdoubleO, Etho, Docm77, and Skizz
 SICKED: Scar, ImpulseSV, Cubfan135, Keralis, Etho, and Docm77
 SICKER: Scar, ImpulseSV, Cubfan135, Keralis, Etho, and Rendog
 SICKEST: Scar, ImpulseSV, Cubfan135, Keralis, Etho, Skizzleman, and Tango Tek
+SICKIE: Scar, ImpulseSV, Cubfan135, Keralis, Jevin (iJevin), and Etho
+SICKIES: Scar, ImpulseSV, Cubfan135, Keralis, Jevin (iJevin), Etho, and Skizzleman
+SICKISH: Scar, ImpulseSV, Cubfan135, Keralis, Jevin (iJevin), Skizzleman, and Hypno
 SICKS: Scar, ImpulseSV, Cubfan135, Keralis, and Skizzleman
 SICS: Scar, ImpulseSV, Cubfan135, and Skizzleman
 SIDE: Scar, ImpulseSV, Docm77, and Etho
@@ -1502,6 +1821,7 @@ SIRES: Scar, ImpulseSV, Rendog, Etho, and Skizzleman
 SIRS: Scar, ImpulseSV, Rendog, and Skizzleman
 SIS: Scar, ImpulseSV, and Skizzleman
 SISES: Scar, ImpulseSV, Skizzleman, Etho, and Smallishbeans
+SISSIER: Scar, ImpulseSV, Skizzleman, Smallishbeans, Jevin (iJevin), Etho, and Rendog
 SISTER: Scar, ImpulseSV, Skizzleman, Tango Tek, Etho, and Rendog
 SISTERS: Scar, ImpulseSV, Skizzleman, Tango Tek, Etho, Rendog, and Smallishbeans
 SIT: Scar, ImpulseSV, and Tango Tek
@@ -1518,11 +1838,14 @@ SIXTE: Scar, ImpulseSV, XBCrafted, Tango Tek, and Etho
 SIXTES: Scar, ImpulseSV, XBCrafted, Tango Tek, Etho, and Skizzleman
 SIXTH: Scar, ImpulseSV, XBCrafted, Tango Tek, and Hypno
 SIXTHS: Scar, ImpulseSV, XBCrafted, Tango Tek, Hypno, and Skizzleman
+SIXTIES: Scar, ImpulseSV, XBCrafted, Tango Tek, Jevin (iJevin), Etho, and Skizzleman
 SIZE: Scar, ImpulseSV, ZedaphPlays, and Etho
 SIZED: Scar, ImpulseSV, ZedaphPlays, Etho, and Docm77
 SIZER: Scar, ImpulseSV, ZedaphPlays, Etho, and Rendog
 SIZERS: Scar, ImpulseSV, ZedaphPlays, Etho, Rendog, and Skizzleman
 SIZES: Scar, ImpulseSV, ZedaphPlays, Etho, and Skizzleman
+SIZIER: Scar, ImpulseSV, ZedaphPlays, Jevin (iJevin), Etho, and Rendog
+SIZIEST: Scar, ImpulseSV, ZedaphPlays, Jevin (iJevin), Etho, Skizzleman, and Tango Tek
 SKEG: Scar, Keralis, Etho, and GeminiTay
 SKEGS: Scar, Keralis, Etho, GeminiTay, and Skizzleman
 SKEIGH: Scar, Keralis, Etho, ImpulseSV, GeminiTay, and Hypno
@@ -1530,6 +1853,8 @@ SKEP: Scar, Keralis, Etho, and PearlescentMoon
 SKEPS: Scar, Keralis, Etho, PearlescentMoon, and Skizzleman
 SKEPSIS: Scar, Keralis, Etho, PearlescentMoon, Skizzleman, ImpulseSV, and Smallishbeans
 SKEPTIC: Scar, Keralis, Etho, PearlescentMoon, Tango Tek, ImpulseSV, and Cubfan135
+SKEPTICISM: Scar, Keralis, Etho, PearlescentMoon, Tango Tek, ImpulseSV, Cubfan135, Jevin (iJevin), Skizzleman, and MumboJumbo
+SKEPTICISMS: Scar, Keralis, Etho, PearlescentMoon, Tango Tek, ImpulseSV, Cubfan135, Jevin (iJevin), Skizzleman, MumboJumbo, and Smallishbeans
 SKEPTICS: Scar, Keralis, Etho, PearlescentMoon, Tango Tek, ImpulseSV, Cubfan135, and Skizzleman
 SKETCH: Scar, Keralis, Etho, Tango Tek, Cubfan135, and Hypno
 SKEW: Scar, Keralis, Etho, and Welsknight
@@ -1544,10 +1869,15 @@ SKIES: Scar, Keralis, ImpulseSV, Etho, and Skizzleman
 SKIM: Scar, Keralis, ImpulseSV, and MumboJumbo
 SKIMP: Scar, Keralis, ImpulseSV, MumboJumbo, and PearlescentMoon
 SKIMPED: Scar, Keralis, ImpulseSV, MumboJumbo, PearlescentMoon, Etho, and Docm77
+SKIMPIER: Scar, Keralis, ImpulseSV, MumboJumbo, PearlescentMoon, Jevin (iJevin), Etho, and Rendog
+SKIMPIEST: Scar, Keralis, ImpulseSV, MumboJumbo, PearlescentMoon, Jevin (iJevin), Etho, Skizzleman, and Tango Tek
 SKIMPS: Scar, Keralis, ImpulseSV, MumboJumbo, PearlescentMoon, and Skizzleman
 SKIMS: Scar, Keralis, ImpulseSV, MumboJumbo, and Skizzleman
 SKIP: Scar, Keralis, ImpulseSV, and PearlescentMoon
 SKIPS: Scar, Keralis, ImpulseSV, PearlescentMoon, and Skizzleman
+SKIRMISH: Scar, Keralis, ImpulseSV, Rendog, MumboJumbo, Jevin (iJevin), Skizzleman, and Hypno
+SKIRMISHED: Scar, Keralis, ImpulseSV, Rendog, MumboJumbo, Jevin (iJevin), Skizzleman, Hypno, Etho, and Docm77
+SKIRMISHES: Scar, Keralis, ImpulseSV, Rendog, MumboJumbo, Jevin (iJevin), Skizzleman, Hypno, Etho, and Smallishbeans
 SKIRT: Scar, Keralis, ImpulseSV, Rendog, and Tango Tek
 SKIRTED: Scar, Keralis, ImpulseSV, Rendog, Tango Tek, Etho, and Docm77
 SKIRTS: Scar, Keralis, ImpulseSV, Rendog, Tango Tek, and Skizzleman
@@ -1575,6 +1905,7 @@ SMIRCHED: Scar, MumboJumbo, ImpulseSV, Rendog, Cubfan135, Hypno, Etho, and Docm7
 SMIRCHES: Scar, MumboJumbo, ImpulseSV, Rendog, Cubfan135, Hypno, Etho, and Skizzleman
 SMIRK: Scar, MumboJumbo, ImpulseSV, Rendog, and Keralis
 SMIRKED: Scar, MumboJumbo, ImpulseSV, Rendog, Keralis, Etho, and Docm77
+SMIRKIEST: Scar, MumboJumbo, ImpulseSV, Rendog, Keralis, Jevin (iJevin), Etho, Skizzleman, and Tango Tek
 SMIRKS: Scar, MumboJumbo, ImpulseSV, Rendog, Keralis, and Skizzleman
 SMIT: Scar, MumboJumbo, ImpulseSV, and Tango Tek
 SMITE: Scar, MumboJumbo, ImpulseSV, Tango Tek, and Etho
@@ -1583,6 +1914,7 @@ SMITERS: Scar, MumboJumbo, ImpulseSV, Tango Tek, Etho, Rendog, and Skizzleman
 SMITES: Scar, MumboJumbo, ImpulseSV, Tango Tek, Etho, and Skizzleman
 SMITH: Scar, MumboJumbo, ImpulseSV, Tango Tek, and Hypno
 SMITHERS: Scar, MumboJumbo, ImpulseSV, Tango Tek, Hypno, Etho, Rendog, and Skizzleman
+SMITHIES: Scar, MumboJumbo, ImpulseSV, Tango Tek, Hypno, Jevin (iJevin), Etho, and Skizzleman
 SMITHS: Scar, MumboJumbo, ImpulseSV, Tango Tek, Hypno, and Skizzleman
 SPEC: Scar, PearlescentMoon, Etho, and Cubfan135
 SPECK: Scar, PearlescentMoon, Etho, Cubfan135, and Keralis
@@ -1605,10 +1937,13 @@ SPICED: Scar, PearlescentMoon, ImpulseSV, Cubfan135, Etho, and Docm77
 SPICER: Scar, PearlescentMoon, ImpulseSV, Cubfan135, Etho, and Rendog
 SPICERS: Scar, PearlescentMoon, ImpulseSV, Cubfan135, Etho, Rendog, and Skizzleman
 SPICES: Scar, PearlescentMoon, ImpulseSV, Cubfan135, Etho, and Skizzleman
+SPICIER: Scar, PearlescentMoon, ImpulseSV, Cubfan135, Jevin (iJevin), Etho, and Rendog
+SPICIEST: Scar, PearlescentMoon, ImpulseSV, Cubfan135, Jevin (iJevin), Etho, Skizzleman, and Tango Tek
 SPICK: Scar, PearlescentMoon, ImpulseSV, Cubfan135, and Keralis
 SPICKS: Scar, PearlescentMoon, ImpulseSV, Cubfan135, Keralis, and Skizzleman
 SPICS: Scar, PearlescentMoon, ImpulseSV, Cubfan135, and Skizzleman
 SPIDER: Scar, PearlescentMoon, ImpulseSV, Docm77, Etho, and Rendog
+SPIDERISH: Scar, PearlescentMoon, ImpulseSV, Docm77, Etho, Rendog, Jevin (iJevin), Skizzleman, and Hypno
 SPIDERS: Scar, PearlescentMoon, ImpulseSV, Docm77, Etho, Rendog, and Skizzleman
 SPIED: Scar, PearlescentMoon, ImpulseSV, Etho, and Docm77
 SPIER: Scar, PearlescentMoon, ImpulseSV, Etho, and Rendog
@@ -1620,12 +1955,18 @@ SPIKED: Scar, PearlescentMoon, ImpulseSV, Keralis, Etho, and Docm77
 SPIKER: Scar, PearlescentMoon, ImpulseSV, Keralis, Etho, and Rendog
 SPIKERS: Scar, PearlescentMoon, ImpulseSV, Keralis, Etho, Rendog, and Skizzleman
 SPIKES: Scar, PearlescentMoon, ImpulseSV, Keralis, Etho, and Skizzleman
+SPIKIER: Scar, PearlescentMoon, ImpulseSV, Keralis, Jevin (iJevin), Etho, and Rendog
+SPIKIEST: Scar, PearlescentMoon, ImpulseSV, Keralis, Jevin (iJevin), Etho, Skizzleman, and Tango Tek
 SPIKS: Scar, PearlescentMoon, ImpulseSV, Keralis, and Skizzleman
 SPIRE: Scar, PearlescentMoon, ImpulseSV, Rendog, and Etho
 SPIRED: Scar, PearlescentMoon, ImpulseSV, Rendog, Etho, and Docm77
 SPIREM: Scar, PearlescentMoon, ImpulseSV, Rendog, Etho, and MumboJumbo
 SPIREMS: Scar, PearlescentMoon, ImpulseSV, Rendog, Etho, MumboJumbo, and Skizzleman
 SPIRES: Scar, PearlescentMoon, ImpulseSV, Rendog, Etho, and Skizzleman
+SPIRIEST: Scar, PearlescentMoon, ImpulseSV, Rendog, Jevin (iJevin), Etho, Skizzleman, and Tango Tek
+SPIRIT: Scar, PearlescentMoon, ImpulseSV, Rendog, Jevin (iJevin), and Tango Tek
+SPIRITED: Scar, PearlescentMoon, ImpulseSV, Rendog, Jevin (iJevin), Tango Tek, Etho, and Docm77
+SPIRITS: Scar, PearlescentMoon, ImpulseSV, Rendog, Jevin (iJevin), Tango Tek, and Skizzleman
 SPIRT: Scar, PearlescentMoon, ImpulseSV, Rendog, and Tango Tek
 SPIRTED: Scar, PearlescentMoon, ImpulseSV, Rendog, Tango Tek, Etho, and Docm77
 SPIRTS: Scar, PearlescentMoon, ImpulseSV, Rendog, Tango Tek, and Skizzleman
@@ -1633,6 +1974,8 @@ SPIT: Scar, PearlescentMoon, ImpulseSV, and Tango Tek
 SPITE: Scar, PearlescentMoon, ImpulseSV, Tango Tek, and Etho
 SPITED: Scar, PearlescentMoon, ImpulseSV, Tango Tek, Etho, and Docm77
 SPITES: Scar, PearlescentMoon, ImpulseSV, Tango Tek, Etho, and Skizzleman
+SPITFIRE: Scar, PearlescentMoon, ImpulseSV, Tango Tek, False, Jevin (iJevin), Rendog, and Etho
+SPITFIRES: Scar, PearlescentMoon, ImpulseSV, Tango Tek, False, Jevin (iJevin), Rendog, Etho, and Skizzleman
 SPITS: Scar, PearlescentMoon, ImpulseSV, Tango Tek, and Skizzleman
 SPITZ: Scar, PearlescentMoon, ImpulseSV, Tango Tek, and ZedaphPlays
 SPITZES: Scar, PearlescentMoon, ImpulseSV, Tango Tek, ZedaphPlays, Etho, and Skizzleman
@@ -1641,6 +1984,7 @@ SPIVS: Scar, PearlescentMoon, ImpulseSV, Vintage Beef, and Skizzleman
 SPRIEST: Scar, PearlescentMoon, Rendog, ImpulseSV, Etho, Skizzleman, and Tango Tek
 SPRIG: Scar, PearlescentMoon, Rendog, ImpulseSV, and GeminiTay
 SPRIGGED: Scar, PearlescentMoon, Rendog, ImpulseSV, GeminiTay, Grian, Etho, and Docm77
+SPRIGGIEST: Scar, PearlescentMoon, Rendog, ImpulseSV, GeminiTay, Grian, Jevin (iJevin), Etho, Skizzleman, and Tango Tek
 SPRIGHT: Scar, PearlescentMoon, Rendog, ImpulseSV, GeminiTay, Hypno, and Tango Tek
 SPRIGHTS: Scar, PearlescentMoon, Rendog, ImpulseSV, GeminiTay, Hypno, Tango Tek, and Skizzleman
 SPRIGS: Scar, PearlescentMoon, Rendog, ImpulseSV, GeminiTay, and Skizzleman
@@ -1666,11 +2010,15 @@ STICK: Scar, Tango Tek, ImpulseSV, Cubfan135, and Keralis
 STICKED: Scar, Tango Tek, ImpulseSV, Cubfan135, Keralis, Etho, and Docm77
 STICKER: Scar, Tango Tek, ImpulseSV, Cubfan135, Keralis, Etho, and Rendog
 STICKERS: Scar, Tango Tek, ImpulseSV, Cubfan135, Keralis, Etho, Rendog, and Skizzleman
+STICKIER: Scar, Tango Tek, ImpulseSV, Cubfan135, Keralis, Jevin (iJevin), Etho, and Rendog
+STICKIES: Scar, Tango Tek, ImpulseSV, Cubfan135, Keralis, Jevin (iJevin), Etho, and Skizzleman
 STICKS: Scar, Tango Tek, ImpulseSV, Cubfan135, Keralis, and Skizzleman
 STIED: Scar, Tango Tek, ImpulseSV, Etho, and Docm77
 STIES: Scar, Tango Tek, ImpulseSV, Etho, and Skizzleman
 STIME: Scar, Tango Tek, ImpulseSV, MumboJumbo, and Etho
 STIMES: Scar, Tango Tek, ImpulseSV, MumboJumbo, Etho, and Skizzleman
+STIMIED: Scar, Tango Tek, ImpulseSV, MumboJumbo, Jevin (iJevin), Etho, and Docm77
+STIMIES: Scar, Tango Tek, ImpulseSV, MumboJumbo, Jevin (iJevin), Etho, and Skizzleman
 STIPE: Scar, Tango Tek, ImpulseSV, PearlescentMoon, and Etho
 STIPED: Scar, Tango Tek, ImpulseSV, PearlescentMoon, Etho, and Docm77
 STIPES: Scar, Tango Tek, ImpulseSV, PearlescentMoon, Etho, and Skizzleman
@@ -1724,6 +2072,8 @@ SWISHED: Scar, Welsknight, ImpulseSV, Skizzleman, Hypno, Etho, and Docm77
 SWISHER: Scar, Welsknight, ImpulseSV, Skizzleman, Hypno, Etho, and Rendog
 SWISHERS: Scar, Welsknight, ImpulseSV, Skizzleman, Hypno, Etho, Rendog, and Smallishbeans
 SWISHES: Scar, Welsknight, ImpulseSV, Skizzleman, Hypno, Etho, and Smallishbeans
+SWISHIER: Scar, Welsknight, ImpulseSV, Skizzleman, Hypno, Jevin (iJevin), Etho, and Rendog
+SWISHIEST: Scar, Welsknight, ImpulseSV, Skizzleman, Hypno, Jevin (iJevin), Etho, Smallishbeans, and Tango Tek
 SWISS: Scar, Welsknight, ImpulseSV, Skizzleman, and Smallishbeans
 SWITCH: Scar, Welsknight, ImpulseSV, Tango Tek, Cubfan135, and Hypno
 SWITCHED: Scar, Welsknight, ImpulseSV, Tango Tek, Cubfan135, Hypno, Etho, and Docm77
@@ -1747,6 +2097,8 @@ TEG: Tango Tek, Etho, and GeminiTay
 TEGG: Tango Tek, Etho, GeminiTay, and Grian
 TEGGS: Tango Tek, Etho, GeminiTay, Grian, and Scar
 TEGS: Tango Tek, Etho, GeminiTay, and Scar
+TEIID: Tango Tek, Etho, ImpulseSV, Jevin (iJevin), and Docm77
+TEIIDS: Tango Tek, Etho, ImpulseSV, Jevin (iJevin), Docm77, and Scar
 TEMP: Tango Tek, Etho, MumboJumbo, and PearlescentMoon
 TEMPI: Tango Tek, Etho, MumboJumbo, PearlescentMoon, and ImpulseSV
 TEMPS: Tango Tek, Etho, MumboJumbo, PearlescentMoon, and Scar
@@ -1794,17 +2146,26 @@ TICKERS: Tango Tek, ImpulseSV, Cubfan135, Keralis, Etho, Rendog, and Scar
 TICKS: Tango Tek, ImpulseSV, Cubfan135, Keralis, and Scar
 TICS: Tango Tek, ImpulseSV, Cubfan135, and Scar
 TIDE: Tango Tek, ImpulseSV, Docm77, and Etho
+TIDERIP: Tango Tek, ImpulseSV, Docm77, Etho, Rendog, Jevin (iJevin), and PearlescentMoon
+TIDERIPS: Tango Tek, ImpulseSV, Docm77, Etho, Rendog, Jevin (iJevin), PearlescentMoon, and Scar
 TIDES: Tango Tek, ImpulseSV, Docm77, Etho, and Scar
+TIDIER: Tango Tek, ImpulseSV, Docm77, Jevin (iJevin), Etho, and Rendog
+TIDIERS: Tango Tek, ImpulseSV, Docm77, Jevin (iJevin), Etho, Rendog, and Scar
+TIDIES: Tango Tek, ImpulseSV, Docm77, Jevin (iJevin), Etho, and Scar
 TIE: Tango Tek, ImpulseSV, and Etho
 TIED: Tango Tek, ImpulseSV, Etho, and Docm77
 TIER: Tango Tek, ImpulseSV, Etho, and Rendog
 TIERS: Tango Tek, ImpulseSV, Etho, Rendog, and Scar
 TIES: Tango Tek, ImpulseSV, Etho, and Scar
 TIGER: Tango Tek, ImpulseSV, GeminiTay, Etho, and Rendog
+TIGERISH: Tango Tek, ImpulseSV, GeminiTay, Etho, Rendog, Jevin (iJevin), Scar, and Hypno
 TIGERS: Tango Tek, ImpulseSV, GeminiTay, Etho, Rendog, and Scar
 TIGRESS: Tango Tek, ImpulseSV, GeminiTay, Rendog, Etho, Scar, and Skizzleman
+TIGRISH: Tango Tek, ImpulseSV, GeminiTay, Rendog, Jevin (iJevin), Scar, and Hypno
 TIKE: Tango Tek, ImpulseSV, Keralis, and Etho
 TIKES: Tango Tek, ImpulseSV, Keralis, Etho, and Scar
+TIKI: Tango Tek, ImpulseSV, Keralis, and Jevin (iJevin)
+TIKIS: Tango Tek, ImpulseSV, Keralis, Jevin (iJevin), and Scar
 TIMBER: Tango Tek, ImpulseSV, MumboJumbo, BdoubleO, Etho, and Rendog
 TIMBERS: Tango Tek, ImpulseSV, MumboJumbo, BdoubleO, Etho, Rendog, and Scar
 TIMBRE: Tango Tek, ImpulseSV, MumboJumbo, BdoubleO, Rendog, and Etho
@@ -1814,12 +2175,18 @@ TIMED: Tango Tek, ImpulseSV, MumboJumbo, Etho, and Docm77
 TIMER: Tango Tek, ImpulseSV, MumboJumbo, Etho, and Rendog
 TIMERS: Tango Tek, ImpulseSV, MumboJumbo, Etho, Rendog, and Scar
 TIMES: Tango Tek, ImpulseSV, MumboJumbo, Etho, and Scar
+TIMID: Tango Tek, ImpulseSV, MumboJumbo, Jevin (iJevin), and Docm77
+TIMIDER: Tango Tek, ImpulseSV, MumboJumbo, Jevin (iJevin), Docm77, Etho, and Rendog
 TIP: Tango Tek, ImpulseSV, and PearlescentMoon
+TIPI: Tango Tek, ImpulseSV, PearlescentMoon, and Jevin (iJevin)
+TIPIS: Tango Tek, ImpulseSV, PearlescentMoon, Jevin (iJevin), and Scar
 TIPS: Tango Tek, ImpulseSV, PearlescentMoon, and Scar
+TIPSIER: Tango Tek, ImpulseSV, PearlescentMoon, Scar, Jevin (iJevin), Etho, and Rendog
 TIRE: Tango Tek, ImpulseSV, Rendog, and Etho
 TIRED: Tango Tek, ImpulseSV, Rendog, Etho, and Docm77
 TIRES: Tango Tek, ImpulseSV, Rendog, Etho, and Scar
 TIS: Tango Tek, ImpulseSV, and Scar
+TIZZIES: Tango Tek, ImpulseSV, ZedaphPlays, ZombieCleo, Jevin (iJevin), Etho, and Scar
 TMESIS: Tango Tek, MumboJumbo, Etho, Scar, ImpulseSV, and Skizzleman
 TREF: Tango Tek, Rendog, Etho, and False
 TREK: Tango Tek, Rendog, Etho, and Keralis
@@ -1837,9 +2204,12 @@ TRICEPS: Tango Tek, Rendog, ImpulseSV, Cubfan135, Etho, PearlescentMoon, and Sca
 TRICES: Tango Tek, Rendog, ImpulseSV, Cubfan135, Etho, and Scar
 TRICK: Tango Tek, Rendog, ImpulseSV, Cubfan135, and Keralis
 TRICKED: Tango Tek, Rendog, ImpulseSV, Cubfan135, Keralis, Etho, and Docm77
+TRICKIE: Tango Tek, Rendog, ImpulseSV, Cubfan135, Keralis, Jevin (iJevin), and Etho
+TRICKISH: Tango Tek, Rendog, ImpulseSV, Cubfan135, Keralis, Jevin (iJevin), Scar, and Hypno
 TRICKS: Tango Tek, Rendog, ImpulseSV, Cubfan135, Keralis, and Scar
 TRIED: Tango Tek, Rendog, ImpulseSV, Etho, and Docm77
 TRIES: Tango Tek, Rendog, ImpulseSV, Etho, and Scar
+TRIFID: Tango Tek, Rendog, ImpulseSV, False, Jevin (iJevin), and Docm77
 TRIG: Tango Tek, Rendog, ImpulseSV, and GeminiTay
 TRIGGED: Tango Tek, Rendog, ImpulseSV, GeminiTay, Grian, Etho, and Docm77
 TRIGS: Tango Tek, Rendog, ImpulseSV, GeminiTay, and Scar
@@ -1851,6 +2221,8 @@ TRIP: Tango Tek, Rendog, ImpulseSV, and PearlescentMoon
 TRIPE: Tango Tek, Rendog, ImpulseSV, PearlescentMoon, and Etho
 TRIPES: Tango Tek, Rendog, ImpulseSV, PearlescentMoon, Etho, and Scar
 TRIPS: Tango Tek, Rendog, ImpulseSV, PearlescentMoon, and Scar
+TRISEMIC: Tango Tek, Rendog, ImpulseSV, Scar, Etho, MumboJumbo, Jevin (iJevin), and Cubfan135
+TRISMIC: Tango Tek, Rendog, ImpulseSV, Scar, MumboJumbo, Jevin (iJevin), and Cubfan135
 TSK: Tango Tek, Scar, and Keralis
 TSKED: Tango Tek, Scar, Keralis, Etho, and Docm77
 TSKS: Tango Tek, Scar, Keralis, and Skizzleman
@@ -1861,6 +2233,7 @@ TWIER: Tango Tek, Welsknight, ImpulseSV, Etho, and Rendog
 TWIERS: Tango Tek, Welsknight, ImpulseSV, Etho, Rendog, and Scar
 TWIG: Tango Tek, Welsknight, ImpulseSV, and GeminiTay
 TWIGGED: Tango Tek, Welsknight, ImpulseSV, GeminiTay, Grian, Etho, and Docm77
+TWIGGIER: Tango Tek, Welsknight, ImpulseSV, GeminiTay, Grian, Jevin (iJevin), Etho, and Rendog
 TWIGS: Tango Tek, Welsknight, ImpulseSV, GeminiTay, and Scar
 TWIRP: Tango Tek, Welsknight, ImpulseSV, Rendog, and PearlescentMoon
 TWIRPS: Tango Tek, Welsknight, ImpulseSV, Rendog, PearlescentMoon, and Scar
@@ -1871,9 +2244,11 @@ VERBIDS: Vintage Beef, Etho, Rendog, BdoubleO, ImpulseSV, Docm77, and Scar
 VERBS: Vintage Beef, Etho, Rendog, BdoubleO, and Scar
 VERDICT: Vintage Beef, Etho, Rendog, Docm77, ImpulseSV, Cubfan135, and Tango Tek
 VERDICTS: Vintage Beef, Etho, Rendog, Docm77, ImpulseSV, Cubfan135, Tango Tek, and Scar
+VERIDIC: Vintage Beef, Etho, Rendog, ImpulseSV, Docm77, Jevin (iJevin), and Cubfan135
 VERISM: Vintage Beef, Etho, Rendog, ImpulseSV, Scar, and MumboJumbo
 VERISMS: Vintage Beef, Etho, Rendog, ImpulseSV, Scar, MumboJumbo, and Skizzleman
 VERIST: Vintage Beef, Etho, Rendog, ImpulseSV, Scar, and Tango Tek
+VERISTIC: Vintage Beef, Etho, Rendog, ImpulseSV, Scar, Tango Tek, Jevin (iJevin), and Cubfan135
 VERISTS: Vintage Beef, Etho, Rendog, ImpulseSV, Scar, Tango Tek, and Skizzleman
 VERMIS: Vintage Beef, Etho, Rendog, MumboJumbo, ImpulseSV, and Scar
 VERST: Vintage Beef, Etho, Rendog, Scar, and Tango Tek
@@ -1891,9 +2266,14 @@ VEX: Vintage Beef, Etho, and XBCrafted
 VEXT: Vintage Beef, Etho, XBCrafted, and Tango Tek
 VIBE: Vintage Beef, ImpulseSV, BdoubleO, and Etho
 VIBES: Vintage Beef, ImpulseSV, BdoubleO, Etho, and Scar
+VIBIST: Vintage Beef, ImpulseSV, BdoubleO, Jevin (iJevin), Scar, and Tango Tek
+VIBISTS: Vintage Beef, ImpulseSV, BdoubleO, Jevin (iJevin), Scar, Tango Tek, and Skizzleman
 VICE: Vintage Beef, ImpulseSV, Cubfan135, and Etho
 VICED: Vintage Beef, ImpulseSV, Cubfan135, Etho, and Docm77
 VICES: Vintage Beef, ImpulseSV, Cubfan135, Etho, and Scar
+VICHIES: Vintage Beef, ImpulseSV, Cubfan135, Hypno, Jevin (iJevin), Etho, and Scar
+VICTIM: Vintage Beef, ImpulseSV, Cubfan135, Tango Tek, Jevin (iJevin), and MumboJumbo
+VICTIMS: Vintage Beef, ImpulseSV, Cubfan135, Tango Tek, Jevin (iJevin), MumboJumbo, and Scar
 VICTRESS: Vintage Beef, ImpulseSV, Cubfan135, Tango Tek, Rendog, Etho, Scar, and Skizzleman
 VID: Vintage Beef, ImpulseSV, and Docm77
 VIDE: Vintage Beef, ImpulseSV, Docm77, and Etho
@@ -1910,12 +2290,28 @@ VIGS: Vintage Beef, ImpulseSV, GeminiTay, and Scar
 VIM: Vintage Beef, ImpulseSV, and MumboJumbo
 VIMS: Vintage Beef, ImpulseSV, MumboJumbo, and Scar
 VIPER: Vintage Beef, ImpulseSV, PearlescentMoon, Etho, and Rendog
+VIPERFISH: Vintage Beef, ImpulseSV, PearlescentMoon, Etho, Rendog, False, Jevin (iJevin), Scar, and Hypno
+VIPERISH: Vintage Beef, ImpulseSV, PearlescentMoon, Etho, Rendog, Jevin (iJevin), Scar, and Hypno
 VIPERS: Vintage Beef, ImpulseSV, PearlescentMoon, Etho, Rendog, and Scar
+VIREMIC: Vintage Beef, ImpulseSV, Rendog, Etho, MumboJumbo, Jevin (iJevin), and Cubfan135
 VIRES: Vintage Beef, ImpulseSV, Rendog, Etho, and Scar
+VIRID: Vintage Beef, ImpulseSV, Rendog, Jevin (iJevin), and Docm77
 VIS: Vintage Beef, ImpulseSV, and Scar
+VISCID: Vintage Beef, ImpulseSV, Scar, Cubfan135, Jevin (iJevin), and Docm77
 VISE: Vintage Beef, ImpulseSV, Scar, and Etho
 VISED: Vintage Beef, ImpulseSV, Scar, Etho, and Docm77
 VISES: Vintage Beef, ImpulseSV, Scar, Etho, and Skizzleman
+VISIT: Vintage Beef, ImpulseSV, Scar, Jevin (iJevin), and Tango Tek
+VISITED: Vintage Beef, ImpulseSV, Scar, Jevin (iJevin), Tango Tek, Etho, and Docm77
+VISITER: Vintage Beef, ImpulseSV, Scar, Jevin (iJevin), Tango Tek, Etho, and Rendog
+VISITERS: Vintage Beef, ImpulseSV, Scar, Jevin (iJevin), Tango Tek, Etho, Rendog, and Skizzleman
+VISITS: Vintage Beef, ImpulseSV, Scar, Jevin (iJevin), Tango Tek, and Skizzleman
+VITRIC: Vintage Beef, ImpulseSV, Tango Tek, Rendog, Jevin (iJevin), and Cubfan135
+VITRICS: Vintage Beef, ImpulseSV, Tango Tek, Rendog, Jevin (iJevin), Cubfan135, and Scar
+VIZIER: Vintage Beef, ImpulseSV, ZedaphPlays, Jevin (iJevin), Etho, and Rendog
+VIZIERS: Vintage Beef, ImpulseSV, ZedaphPlays, Jevin (iJevin), Etho, Rendog, and Scar
+VIZIR: Vintage Beef, ImpulseSV, ZedaphPlays, Jevin (iJevin), and Rendog
+VIZIRS: Vintage Beef, ImpulseSV, ZedaphPlays, Jevin (iJevin), Rendog, and Scar
 WE: Welsknight, and Etho
 WEB: Welsknight, Etho, and BdoubleO
 WEBS: Welsknight, Etho, BdoubleO, and Scar
@@ -1953,6 +2349,8 @@ WHIM: Welsknight, Hypno, ImpulseSV, and MumboJumbo
 WHIMPER: Welsknight, Hypno, ImpulseSV, MumboJumbo, PearlescentMoon, Etho, and Rendog
 WHIMPERS: Welsknight, Hypno, ImpulseSV, MumboJumbo, PearlescentMoon, Etho, Rendog, and Scar
 WHIMS: Welsknight, Hypno, ImpulseSV, MumboJumbo, and Scar
+WHIMSIED: Welsknight, Hypno, ImpulseSV, MumboJumbo, Scar, Jevin (iJevin), Etho, and Docm77
+WHIMSIES: Welsknight, Hypno, ImpulseSV, MumboJumbo, Scar, Jevin (iJevin), Etho, and Skizzleman
 WHIP: Welsknight, Hypno, ImpulseSV, and PearlescentMoon
 WHIPS: Welsknight, Hypno, ImpulseSV, PearlescentMoon, and Scar
 WHIPT: Welsknight, Hypno, ImpulseSV, PearlescentMoon, and Tango Tek
@@ -1962,6 +2360,7 @@ WHISK: Welsknight, Hypno, ImpulseSV, Scar, and Keralis
 WHISKED: Welsknight, Hypno, ImpulseSV, Scar, Keralis, Etho, and Docm77
 WHISKER: Welsknight, Hypno, ImpulseSV, Scar, Keralis, Etho, and Rendog
 WHISKERS: Welsknight, Hypno, ImpulseSV, Scar, Keralis, Etho, Rendog, and Skizzleman
+WHISKIES: Welsknight, Hypno, ImpulseSV, Scar, Keralis, Jevin (iJevin), Etho, and Skizzleman
 WHISKS: Welsknight, Hypno, ImpulseSV, Scar, Keralis, and Skizzleman
 WHISPER: Welsknight, Hypno, ImpulseSV, Scar, PearlescentMoon, Etho, and Rendog
 WHISPERS: Welsknight, Hypno, ImpulseSV, Scar, PearlescentMoon, Etho, Rendog, and Skizzleman
@@ -1973,6 +2372,8 @@ WHITE: Welsknight, Hypno, ImpulseSV, Tango Tek, and Etho
 WHITED: Welsknight, Hypno, ImpulseSV, Tango Tek, Etho, and Docm77
 WHITER: Welsknight, Hypno, ImpulseSV, Tango Tek, Etho, and Rendog
 WHITES: Welsknight, Hypno, ImpulseSV, Tango Tek, Etho, and Scar
+WHITIER: Welsknight, Hypno, ImpulseSV, Tango Tek, Jevin (iJevin), Etho, and Rendog
+WHITIES: Welsknight, Hypno, ImpulseSV, Tango Tek, Jevin (iJevin), Etho, and Scar
 WHITS: Welsknight, Hypno, ImpulseSV, Tango Tek, and Scar
 WHIZ: Welsknight, Hypno, ImpulseSV, and ZedaphPlays
 WHIZZ: Welsknight, Hypno, ImpulseSV, ZedaphPlays, and ZombieCleo
@@ -1980,6 +2381,8 @@ WHIZZED: Welsknight, Hypno, ImpulseSV, ZedaphPlays, ZombieCleo, Etho, and Docm77
 WHIZZER: Welsknight, Hypno, ImpulseSV, ZedaphPlays, ZombieCleo, Etho, and Rendog
 WHIZZERS: Welsknight, Hypno, ImpulseSV, ZedaphPlays, ZombieCleo, Etho, Rendog, and Scar
 WHIZZES: Welsknight, Hypno, ImpulseSV, ZedaphPlays, ZombieCleo, Etho, and Scar
+WHIZZIER: Welsknight, Hypno, ImpulseSV, ZedaphPlays, ZombieCleo, Jevin (iJevin), Etho, and Rendog
+WHIZZIEST: Welsknight, Hypno, ImpulseSV, ZedaphPlays, ZombieCleo, Jevin (iJevin), Etho, Scar, and Tango Tek
 WICH: Welsknight, ImpulseSV, Cubfan135, and Hypno
 WICHES: Welsknight, ImpulseSV, Cubfan135, Hypno, Etho, and Scar
 WICK: Welsknight, ImpulseSV, Cubfan135, and Keralis
@@ -1995,18 +2398,25 @@ WIDES: Welsknight, ImpulseSV, Docm77, Etho, and Scar
 WIDEST: Welsknight, ImpulseSV, Docm77, Etho, Scar, and Tango Tek
 WIDGET: Welsknight, ImpulseSV, Docm77, GeminiTay, Etho, and Tango Tek
 WIDGETS: Welsknight, ImpulseSV, Docm77, GeminiTay, Etho, Tango Tek, and Scar
+WIDISH: Welsknight, ImpulseSV, Docm77, Jevin (iJevin), Scar, and Hypno
 WIDTH: Welsknight, ImpulseSV, Docm77, Tango Tek, and Hypno
 WIDTHS: Welsknight, ImpulseSV, Docm77, Tango Tek, Hypno, and Scar
 WIFE: Welsknight, ImpulseSV, False, and Etho
 WIFED: Welsknight, ImpulseSV, False, Etho, and Docm77
 WIFES: Welsknight, ImpulseSV, False, Etho, and Scar
+WIFTIER: Welsknight, ImpulseSV, False, Tango Tek, Jevin (iJevin), Etho, and Rendog
 WIG: Welsknight, ImpulseSV, and GeminiTay
 WIGGED: Welsknight, ImpulseSV, GeminiTay, Grian, Etho, and Docm77
+WIGGIER: Welsknight, ImpulseSV, GeminiTay, Grian, Jevin (iJevin), Etho, and Rendog
+WIGGIEST: Welsknight, ImpulseSV, GeminiTay, Grian, Jevin (iJevin), Etho, Scar, and Tango Tek
 WIGHT: Welsknight, ImpulseSV, GeminiTay, Hypno, and Tango Tek
 WIGHTS: Welsknight, ImpulseSV, GeminiTay, Hypno, Tango Tek, and Scar
 WIGS: Welsknight, ImpulseSV, GeminiTay, and Scar
 WIMP: Welsknight, ImpulseSV, MumboJumbo, and PearlescentMoon
 WIMPED: Welsknight, ImpulseSV, MumboJumbo, PearlescentMoon, Etho, and Docm77
+WIMPIER: Welsknight, ImpulseSV, MumboJumbo, PearlescentMoon, Jevin (iJevin), Etho, and Rendog
+WIMPIEST: Welsknight, ImpulseSV, MumboJumbo, PearlescentMoon, Jevin (iJevin), Etho, Scar, and Tango Tek
+WIMPISH: Welsknight, ImpulseSV, MumboJumbo, PearlescentMoon, Jevin (iJevin), Scar, and Hypno
 WIMPS: Welsknight, ImpulseSV, MumboJumbo, PearlescentMoon, and Scar
 WIPE: Welsknight, ImpulseSV, PearlescentMoon, and Etho
 WIPED: Welsknight, ImpulseSV, PearlescentMoon, Etho, and Docm77
@@ -2016,6 +2426,7 @@ WIPES: Welsknight, ImpulseSV, PearlescentMoon, Etho, and Scar
 WIRE: Welsknight, ImpulseSV, Rendog, and Etho
 WIRED: Welsknight, ImpulseSV, Rendog, Etho, and Docm77
 WIRES: Welsknight, ImpulseSV, Rendog, Etho, and Scar
+WIRIEST: Welsknight, ImpulseSV, Rendog, Jevin (iJevin), Etho, Scar, and Tango Tek
 WIS: Welsknight, ImpulseSV, and Scar
 WISE: Welsknight, ImpulseSV, Scar, and Etho
 WISED: Welsknight, ImpulseSV, Scar, Etho, and Docm77
@@ -2029,6 +2440,9 @@ WISHERS: Welsknight, ImpulseSV, Scar, Hypno, Etho, Rendog, and Skizzleman
 WISHES: Welsknight, ImpulseSV, Scar, Hypno, Etho, and Skizzleman
 WISP: Welsknight, ImpulseSV, Scar, and PearlescentMoon
 WISPED: Welsknight, ImpulseSV, Scar, PearlescentMoon, Etho, and Docm77
+WISPIER: Welsknight, ImpulseSV, Scar, PearlescentMoon, Jevin (iJevin), Etho, and Rendog
+WISPIEST: Welsknight, ImpulseSV, Scar, PearlescentMoon, Jevin (iJevin), Etho, Skizzleman, and Tango Tek
+WISPISH: Welsknight, ImpulseSV, Scar, PearlescentMoon, Jevin (iJevin), Skizzleman, and Hypno
 WISPS: Welsknight, ImpulseSV, Scar, PearlescentMoon, and Skizzleman
 WISS: Welsknight, ImpulseSV, Scar, and Skizzleman
 WISSED: Welsknight, ImpulseSV, Scar, Skizzleman, Etho, and Docm77
@@ -2040,6 +2454,7 @@ WIT: Welsknight, ImpulseSV, and Tango Tek
 WITCH: Welsknight, ImpulseSV, Tango Tek, Cubfan135, and Hypno
 WITCHED: Welsknight, ImpulseSV, Tango Tek, Cubfan135, Hypno, Etho, and Docm77
 WITCHES: Welsknight, ImpulseSV, Tango Tek, Cubfan135, Hypno, Etho, and Scar
+WITCHIER: Welsknight, ImpulseSV, Tango Tek, Cubfan135, Hypno, Jevin (iJevin), Etho, and Rendog
 WITE: Welsknight, ImpulseSV, Tango Tek, and Etho
 WITED: Welsknight, ImpulseSV, Tango Tek, Etho, and Docm77
 WITES: Welsknight, ImpulseSV, Tango Tek, Etho, and Scar
@@ -2049,6 +2464,8 @@ WITHED: Welsknight, ImpulseSV, Tango Tek, Hypno, Etho, and Docm77
 WITHER: Welsknight, ImpulseSV, Tango Tek, Hypno, Etho, and Rendog
 WITHERS: Welsknight, ImpulseSV, Tango Tek, Hypno, Etho, Rendog, and Scar
 WITHES: Welsknight, ImpulseSV, Tango Tek, Hypno, Etho, and Scar
+WITHIER: Welsknight, ImpulseSV, Tango Tek, Hypno, Jevin (iJevin), Etho, and Rendog
+WITHIES: Welsknight, ImpulseSV, Tango Tek, Hypno, Jevin (iJevin), Etho, and Scar
 WITS: Welsknight, ImpulseSV, Tango Tek, and Scar
 WIVE: Welsknight, ImpulseSV, Vintage Beef, and Etho
 WIVED: Welsknight, ImpulseSV, Vintage Beef, Etho, and Docm77
@@ -2105,4 +2522,10 @@ ZIPS: ZedaphPlays, ImpulseSV, PearlescentMoon, and Scar
 ZIT: ZedaphPlays, ImpulseSV, and Tango Tek
 ZITHER: ZedaphPlays, ImpulseSV, Tango Tek, Hypno, Etho, and Rendog
 ZITHERS: ZedaphPlays, ImpulseSV, Tango Tek, Hypno, Etho, Rendog, and Scar
+ZITI: ZedaphPlays, ImpulseSV, Tango Tek, and Jevin (iJevin)
+ZITIS: ZedaphPlays, ImpulseSV, Tango Tek, Jevin (iJevin), and Scar
 ZITS: ZedaphPlays, ImpulseSV, Tango Tek, and Scar
+ZIZIT: ZedaphPlays, ImpulseSV, ZombieCleo, Jevin (iJevin), and Tango Tek
+ZIZITH: ZedaphPlays, ImpulseSV, ZombieCleo, Jevin (iJevin), Tango Tek, and Hypno
+Longest acronym (11):
+HIPSTERISMS: Hypno, ImpulseSV, PearlescentMoon, Scar, Tango Tek, Etho, Rendog, Jevin (iJevin), Skizzleman, MumboJumbo, and Smallishbeans
