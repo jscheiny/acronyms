@@ -16,7 +16,7 @@ Aliases can be provided by giving a comma separated list of aliases for a person
 Elizabeth,Lizzy,Beth
 ```
 
-That person will only be used once in an acronym but can now serve as either Robert or Bob depending on the letter needed.
+That person will only be used once in an acronym but can now serve as either E, L, or B depending on the letter needed.
 
 ## Usage
 Make sure you have [rust installed](https://rust-lang.org/tools/install/).
