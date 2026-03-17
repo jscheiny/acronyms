@@ -1,6 +1,9 @@
-use std::collections::{HashMap, HashSet};
+use std::collections::HashMap;
 
-use crate::dawg::{ALPHABET, Dawg};
+use crate::{
+    bitset::BitSet,
+    dawg::{ALPHABET, Dawg},
+};
 
 pub struct Acronyms {
     dawg: Dawg,
@@ -18,7 +21,7 @@ impl Acronyms {
         Self::new(names).find_acronyms(
             0,
             &mut String::new(),
-            &mut HashSet::new(),
+            &mut BitSet::new(),
             &mut vec![],
             &mut on_find,
         );
@@ -36,7 +39,7 @@ impl Acronyms {
         &self,
         node_index: usize,
         word: &mut String,
-        used_names_set: &mut HashSet<usize>,
+        used_names_set: &mut BitSet,
         used_names_vec: &mut Vec<NameCoordinate>,
         on_find: &mut impl FnMut(&String, &Vec<NameCoordinate>),
     ) {
@@ -52,8 +55,8 @@ impl Acronyms {
 
             for coordinate in name_coordinates {
                 let name_index = coordinate.name_index;
-                if !used_names_set.contains(&name_index) {
-                    used_names_set.insert(name_index);
+                if !used_names_set.contains(name_index) {
+                    used_names_set.add(name_index);
                     used_names_vec.push(*coordinate);
                     word.push(letter);
 
@@ -65,7 +68,7 @@ impl Acronyms {
                         on_find,
                     );
 
-                    used_names_set.remove(&name_index);
+                    used_names_set.remove(name_index);
                     used_names_vec.pop();
                     word.pop();
                     break;

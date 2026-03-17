@@ -4,12 +4,12 @@ use std::{
     io::{BufRead, BufReader},
 };
 
+use crate::bitset::BitSet;
+
 pub const ALPHABET: [char; 26] = [
     'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S',
     'T', 'U', 'V', 'W', 'X', 'Y', 'Z',
 ];
-
-use crate::bitset::LetterSet;
 
 pub struct Dawg {
     nodes: Vec<DawgNode>,
@@ -17,7 +17,7 @@ pub struct Dawg {
 
 pub struct DawgNode {
     pub is_end_of_word: bool,
-    pub children: LetterSet,
+    pub children: BitSet,
     children_indices: Vec<usize>,
 }
 
@@ -77,7 +77,7 @@ impl DawgNode {
         DawgNode {
             is_end_of_word: false,
             children_indices: vec![0; ALPHABET.len()],
-            children: LetterSet::new(),
+            children: BitSet::new(),
         }
     }
 
