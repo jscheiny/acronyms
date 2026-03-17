@@ -13,7 +13,7 @@ fn main() {
         let aliases = line
             .expect("Could not read line")
             .split(',')
-            .map(|elem| elem.to_owned())
+            .map(|elem| elem.trim().to_owned())
             .collect::<Vec<String>>();
         names.push(aliases);
     }

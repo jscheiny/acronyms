@@ -7,7 +7,7 @@ GeminiTay
 Grian
 Hypno
 ImpulseSV
-Jevin,iJevin
+Jevin, iJevin
 Joehills
 Keralis
 MumboJumbo
@@ -15,7 +15,7 @@ PearlescentMoon
 Rendog
 Scar,GoodTimesWithScar
 Skizzleman
-Smallishbeans,Joel
+Smallishbeans, Joel
 Tango Tek
 Vintage Beef
 Welsknight
