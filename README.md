@@ -10,6 +10,14 @@ ZIP: Zoey, Ingrid, and Phoebe
 
 If there are multiple names provided that start with the same letter, then the first one provided will be used first, and then the second one second and so on and so forth. Multiple acronyms are not provided for each possible name with the same starting letter. For example. If you have Alice, Alex, and Bob, you will only get `AB: Alice, Bob` and not `AB: Alex, Bob`
 
+Aliases can be provided by giving a comma separated list of aliases for a person in a single line. For example you might want to provide nicknames like:
+
+```
+Elizabeth,Lizzy,Beth
+```
+
+That person will only be used once in an acronym but can now serve as either Robert or Bob depending on the letter needed.
+
 ## Usage
 Make sure you have [rust installed](https://rust-lang.org/tools/install/).
 
